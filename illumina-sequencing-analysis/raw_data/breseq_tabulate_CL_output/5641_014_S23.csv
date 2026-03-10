@@ -1,0 +1,1384 @@
+seq_id,start,end,repeat_base,gene_position,gene,gene_product,1-bp,2-bp,3-bp,4-bp,5-bp,6-bp,7-bp
+NC_001604,20,22,A,"–/> intergenic (–/-903)","–/T7p01","–/ocr-like anti-restriction",0,0,675,0,0,0,0
+NC_001604,26,30,C,"–/> intergenic (–/-895)","–/T7p01","–/ocr-like anti-restriction",0,0,0,4,2516,1,0
+NC_001604,34,38,G,"–/> intergenic (–/-887)","–/T7p01","–/ocr-like anti-restriction",0,0,0,2,3014,3,0
+NC_001604,44,46,A,"–/> intergenic (–/-879)","–/T7p01","–/ocr-like anti-restriction",0,0,4143,0,0,0,0
+NC_001604,48,50,C,"–/> intergenic (–/-875)","–/T7p01","–/ocr-like anti-restriction",0,0,5115,0,0,0,0
+NC_001604,63,65,A,"–/> intergenic (–/-860)","–/T7p01","–/ocr-like anti-restriction",0,1,5731,0,0,0,0
+NC_001604,88,90,G,"–/> intergenic (–/-835)","–/T7p01","–/ocr-like anti-restriction",0,0,8726,0,0,0,0
+NC_001604,93,95,C,"–/> intergenic (–/-830)","–/T7p01","–/ocr-like anti-restriction",0,0,8767,0,0,0,0
+NC_001604,99,101,G,"–/> intergenic (–/-824)","–/T7p01","–/ocr-like anti-restriction",0,0,10199,0,0,0,0
+NC_001604,104,107,G,"–/> intergenic (–/-818)","–/T7p01","–/ocr-like anti-restriction",0,0,2,11160,0,0,0
+NC_001604,112,114,C,"–/> intergenic (–/-811)","–/T7p01","–/ocr-like anti-restriction",0,0,12583,0,0,0,0
+NC_001604,117,119,G,"–/> intergenic (–/-806)","–/T7p01","–/ocr-like anti-restriction",0,1,13365,0,0,0,0
+NC_001604,120,122,T,"–/> intergenic (–/-803)","–/T7p01","–/ocr-like anti-restriction",0,0,13828,0,0,0,0
+NC_001604,126,128,T,"–/> intergenic (–/-797)","–/T7p01","–/ocr-like anti-restriction",0,0,14115,0,0,0,0
+NC_001604,129,131,G,"–/> intergenic (–/-794)","–/T7p01","–/ocr-like anti-restriction",0,1,14516,0,0,0,0
+NC_001604,157,159,C,"–/> intergenic (–/-766)","–/T7p01","–/ocr-like anti-restriction",0,0,15394,0,0,0,0
+NC_001604,178,180,A,"–/> intergenic (–/-745)","–/T7p01","–/ocr-like anti-restriction",0,0,16036,0,0,0,0
+NC_001604,191,193,A,"–/> intergenic (–/-732)","–/T7p01","–/ocr-like anti-restriction",0,1,16539,0,0,0,0
+NC_001604,216,218,A,"–/> intergenic (–/-707)","–/T7p01","–/ocr-like anti-restriction",0,0,17313,0,0,0,0
+NC_001604,229,231,A,"–/> intergenic (–/-694)","–/T7p01","–/ocr-like anti-restriction",0,0,16577,0,0,0,0
+NC_001604,242,244,A,"–/> intergenic (–/-681)","–/T7p01","–/ocr-like anti-restriction",0,0,16777,0,0,0,0
+NC_001604,247,249,C,"–/> intergenic (–/-676)","–/T7p01","–/ocr-like anti-restriction",0,0,17380,0,0,0,0
+NC_001604,270,272,A,"–/> intergenic (–/-653)","–/T7p01","–/ocr-like anti-restriction",0,0,17287,0,0,0,0
+NC_001604,274,276,T,"–/> intergenic (–/-649)","–/T7p01","–/ocr-like anti-restriction",0,0,17168,0,0,0,0
+NC_001604,277,279,A,"–/> intergenic (–/-646)","–/T7p01","–/ocr-like anti-restriction",0,0,16868,0,0,0,0
+NC_001604,283,285,A,"–/> intergenic (–/-640)","–/T7p01","–/ocr-like anti-restriction",0,0,16633,0,0,0,0
+NC_001604,296,298,A,"–/> intergenic (–/-627)","–/T7p01","–/ocr-like anti-restriction",0,0,15765,0,0,0,0
+NC_001604,309,311,A,"–/> intergenic (–/-614)","–/T7p01","–/ocr-like anti-restriction",0,0,14336,0,0,0,0
+NC_001604,322,324,A,"–/> intergenic (–/-601)","–/T7p01","–/ocr-like anti-restriction",0,0,14399,0,0,0,0
+NC_001604,335,337,A,"–/> intergenic (–/-588)","–/T7p01","–/ocr-like anti-restriction",0,0,13889,0,0,0,0
+NC_001604,358,360,A,"–/> intergenic (–/-565)","–/T7p01","–/ocr-like anti-restriction",0,0,15206,0,0,0,0
+NC_001604,370,372,T,"–/> intergenic (–/-553)","–/T7p01","–/ocr-like anti-restriction",0,0,14869,0,0,0,0
+NC_001604,383,385,T,"–/> intergenic (–/-540)","–/T7p01","–/ocr-like anti-restriction",0,0,15529,0,0,0,0
+NC_001604,419,421,A,"–/> intergenic (–/-504)","–/T7p01","–/ocr-like anti-restriction",0,0,15424,0,0,0,0
+NC_001604,429,432,A,"–/> intergenic (–/-493)","–/T7p01","–/ocr-like anti-restriction",0,0,1,15888,0,0,0
+NC_001604,439,441,T,"–/> intergenic (–/-484)","–/T7p01","–/ocr-like anti-restriction",0,0,15003,0,0,0,0
+NC_001604,442,445,A,"–/> intergenic (–/-480)","–/T7p01","–/ocr-like anti-restriction",0,0,0,15009,0,0,0
+NC_001604,446,448,T,"–/> intergenic (–/-477)","–/T7p01","–/ocr-like anti-restriction",0,0,15098,0,0,0,0
+NC_001604,452,456,A,"–/> intergenic (–/-469)","–/T7p01","–/ocr-like anti-restriction",0,0,0,4,14342,0,0
+NC_001604,469,471,A,"–/> intergenic (–/-454)","–/T7p01","–/ocr-like anti-restriction",0,0,14501,0,0,0,0
+NC_001604,505,507,G,"–/> intergenic (–/-418)","–/T7p01","–/ocr-like anti-restriction",0,0,14886,0,0,0,0
+NC_001604,525,527,C,"–/> intergenic (–/-398)","–/T7p01","–/ocr-like anti-restriction",0,1,14364,0,0,0,0
+NC_001604,538,541,G,"–/> intergenic (–/-384)","–/T7p01","–/ocr-like anti-restriction",0,0,0,13456,1,0,0
+NC_001604,578,582,A,"–/> intergenic (–/-343)","–/T7p01","–/ocr-like anti-restriction",0,0,0,3,13468,2,0
+NC_001604,621,623,A,"–/> intergenic (–/-302)","–/T7p01","–/ocr-like anti-restriction",0,0,13820,0,0,0,0
+NC_001604,652,654,G,"–/> intergenic (–/-271)","–/T7p01","–/ocr-like anti-restriction",0,0,12855,0,0,0,0
+NC_001604,703,705,A,"–/> intergenic (–/-220)","–/T7p01","–/ocr-like anti-restriction",0,0,12607,0,0,0,0
+NC_001604,707,710,A,"–/> intergenic (–/-215)","–/T7p01","–/ocr-like anti-restriction",0,0,0,12501,0,0,0
+NC_001604,729,731,A,"–/> intergenic (–/-194)","–/T7p01","–/ocr-like anti-restriction",0,0,13271,0,0,0,0
+NC_001604,753,755,A,"–/> intergenic (–/-170)","–/T7p01","–/ocr-like anti-restriction",0,0,13242,0,0,0,0
+NC_001604,777,779,A,"–/> intergenic (–/-146)","–/T7p01","–/ocr-like anti-restriction",0,3,13483,0,0,0,0
+NC_001604,797,799,A,"–/> intergenic (–/-126)","–/T7p01","–/ocr-like anti-restriction",0,0,13602,0,0,0,0
+NC_001604,817,819,T,"–/> intergenic (–/-106)","–/T7p01","–/ocr-like anti-restriction",0,0,12602,0,0,0,0
+NC_001604,831,833,A,"–/> intergenic (–/-92)","–/T7p01","–/ocr-like anti-restriction",0,0,12509,0,0,0,0
+NC_001604,868,870,G,"–/> intergenic (–/-55)","–/T7p01","–/ocr-like anti-restriction",0,0,12097,0,0,0,0
+NC_001604,883,885,C,"–/> intergenic (–/-40)","–/T7p01","–/ocr-like anti-restriction",0,0,11680,0,0,0,0
+NC_001604,886,888,T,"–/> intergenic (–/-37)","–/T7p01","–/ocr-like anti-restriction",0,0,11404,0,0,0,0
+NC_001604,956,959,T,"> coding (32-35/354 nt)","T7p01","ocr-like anti-restriction",0,0,3,12583,0,0,0
+NC_001604,974,976,A,"> coding (50-52/354 nt)","T7p01","ocr-like anti-restriction",0,0,12555,0,0,0,0
+NC_001604,982,984,A,"> coding (58-60/354 nt)","T7p01","ocr-like anti-restriction",0,0,12327,0,0,0,0
+NC_001604,986,989,A,"> coding (62-65/354 nt)","T7p01","ocr-like anti-restriction",0,0,0,12113,0,0,0
+NC_001604,1084,1086,T,"> coding (160-162/354 nt)","T7p01","ocr-like anti-restriction",0,0,11005,0,0,0,0
+NC_001604,1104,1106,G,"> coding (180-182/354 nt)","T7p01","ocr-like anti-restriction",0,0,11244,0,0,0,0
+NC_001604,1208,1210,G,"> coding (284-286/354 nt)","T7p01","ocr-like anti-restriction",0,0,11435,0,0,0,0
+NC_001604,1315,1317,A,"> coding (38-40/156 nt)","T7p02","hypothetical protein",0,0,11334,0,0,0,0
+NC_001604,1324,1327,T,"> coding (47-50/156 nt)","T7p02","hypothetical protein",0,0,0,11201,0,0,0
+NC_001604,1353,1355,T,"> coding (76-78/156 nt)","T7p02","hypothetical protein",0,0,10280,0,0,0,0
+NC_001604,1383,1385,A,"> coding (106-108/156 nt)","T7p02","hypothetical protein",0,1,11011,0,0,0,0
+NC_001604,1396,1399,A,"> coding (119-122/156 nt)","T7p02","hypothetical protein",41,0,0,12212,0,0,0
+NC_001604,1415,1417,T,"> coding (138-140/156 nt)","T7p02","hypothetical protein",0,0,11489,0,0,0,0
+NC_001604,1464,1466,T,">/> intergenic (+31/-30)","T7p02/T7p04","hypothetical protein/hypothetical protein",0,0,11122,0,0,0,0
+NC_001604,1478,1480,T,">/> intergenic (+45/-16)","T7p02/T7p04","hypothetical protein/hypothetical protein",0,0,11100,0,0,0,0
+NC_001604,1489,1491,G,">/> intergenic (+56/-5)","T7p02/T7p04","hypothetical protein/hypothetical protein",0,0,10112,0,0,0,0
+NC_001604,1553,1555,T,"> coding (58-60/144 nt)","T7p04","hypothetical protein",2,0,11540,0,0,0,0
+NC_001604,1556,1558,G,"> coding (61-63/144 nt)","T7p04","hypothetical protein",0,0,11824,0,0,0,0
+NC_001604,1564,1566,T,"> coding (69-71/144 nt)","T7p04","hypothetical protein",0,0,10871,0,0,0,0
+NC_001604,1589,1591,T,"> coding (94-96/144 nt)","T7p04","hypothetical protein",0,0,10466,0,0,0,0
+NC_001604,1619,1621,A,"> coding (124-126/144 nt)","T7p04","hypothetical protein",0,0,11101,0,0,0,0
+NC_001604,1622,1625,G,"> coding (127-130/144 nt)","T7p04","hypothetical protein",0,0,1,11006,0,0,0
+NC_001604,1634,1636,A,"> coding (139-141/144 nt)","T7p04","hypothetical protein",0,0,11265,0,0,0,0
+NC_001604,1675,1678,G,">|> coding (40-43/159 nt)|coding (40-43/162 nt)","T7p05|T7p06","hypothetical protein|hypothetical protein",0,0,0,10062,0,0,0
+NC_001604,1699,1701,G,">|> coding (64-66/159 nt)|coding (64-66/162 nt)","T7p05|T7p06","hypothetical protein|hypothetical protein",0,0,11231,0,0,0,0
+NC_001604,1711,1713,A,">|> coding (76-78/159 nt)|coding (76-78/162 nt)","T7p05|T7p06","hypothetical protein|hypothetical protein",0,0,10595,0,0,0,0
+NC_001604,1804,1806,A,"> coding (9-11/177 nt)","T7p05","hypothetical protein",0,0,10846,0,0,0,0
+NC_001604,1808,1810,A,"> coding (13-15/177 nt)","T7p05","hypothetical protein",0,0,10744,0,0,0,0
+NC_001604,1820,1822,C,"> coding (25-27/177 nt)","T7p05","hypothetical protein",0,1,10856,0,0,0,0
+NC_001604,1843,1845,A,"> coding (48-50/177 nt)","T7p05","hypothetical protein",0,0,10646,0,0,0,0
+NC_001604,1904,1906,G,"> coding (109-111/177 nt)","T7p05","hypothetical protein",0,0,10535,0,0,0,0
+NC_001604,1923,1925,A,"> coding (128-130/177 nt)","T7p05","hypothetical protein",0,0,10154,0,0,0,0
+NC_001604,1928,1931,A,"> coding (133-136/177 nt)","T7p05","hypothetical protein",0,0,3,10383,0,0,0
+NC_001604,1936,1938,A,"> coding (141-143/177 nt)","T7p05","hypothetical protein",0,0,10307,0,0,0,0
+NC_001604,1945,1947,A,"> coding (150-152/177 nt)","T7p05","hypothetical protein",0,0,10676,0,0,0,0
+NC_001604,2006,2008,A,">/> intergenic (+34/-13)","T7p05/T7p03","hypothetical protein/serine-threonine kinase",0,0,10575,0,0,0,0
+NC_001604,2060,2062,A,"> coding (40-42/1080 nt)","T7p03","serine-threonine kinase",0,0,10490,0,0,0,0
+NC_001604,2164,2166,A,"> coding (144-146/1080 nt)","T7p03","serine-threonine kinase",0,0,10138,0,0,0,0
+NC_001604,2225,2227,G,"> coding (205-207/1080 nt)","T7p03","serine-threonine kinase",0,0,10241,0,0,0,0
+NC_001604,2272,2274,C,"> coding (252-254/1080 nt)","T7p03","serine-threonine kinase",0,0,10437,0,0,0,0
+NC_001604,2302,2304,G,"> coding (282-284/1080 nt)","T7p03","serine-threonine kinase",0,0,11026,0,0,0,0
+NC_001604,2306,2308,T,"> coding (286-288/1080 nt)","T7p03","serine-threonine kinase",0,2,10954,0,0,0,0
+NC_001604,2312,2314,A,"> coding (292-294/1080 nt)","T7p03","serine-threonine kinase",0,0,11048,0,0,0,0
+NC_001604,2359,2361,G,"> coding (339-341/1080 nt)","T7p03","serine-threonine kinase",0,0,9694,0,0,0,0
+NC_001604,2374,2376,C,"> coding (354-356/1080 nt)","T7p03","serine-threonine kinase",0,0,9368,0,0,0,0
+NC_001604,2449,2451,T,"> coding (429-431/1080 nt)","T7p03","serine-threonine kinase",0,0,9752,0,0,0,0
+NC_001604,2463,2465,C,"> coding (443-445/1080 nt)","T7p03","serine-threonine kinase",0,0,9881,0,0,0,0
+NC_001604,2471,2473,A,"> coding (451-453/1080 nt)","T7p03","serine-threonine kinase",0,0,9681,0,0,0,0
+NC_001604,2538,2540,G,"> coding (518-520/1080 nt)","T7p03","serine-threonine kinase",0,0,9638,0,0,0,0
+NC_001604,2549,2551,T,"> coding (529-531/1080 nt)","T7p03","serine-threonine kinase",0,0,9809,0,0,0,0
+NC_001604,2556,2558,A,"> coding (536-538/1080 nt)","T7p03","serine-threonine kinase",0,0,9111,0,0,0,0
+NC_001604,2564,2566,A,"> coding (544-546/1080 nt)","T7p03","serine-threonine kinase",0,0,8574,0,0,0,0
+NC_001604,2582,2584,T,"> coding (562-564/1080 nt)","T7p03","serine-threonine kinase",0,0,9306,0,0,0,0
+NC_001604,2587,2589,G,"> coding (567-569/1080 nt)","T7p03","serine-threonine kinase",0,0,9469,0,0,0,0
+NC_001604,2615,2617,G,"> coding (595-597/1080 nt)","T7p03","serine-threonine kinase",0,0,9079,0,0,0,0
+NC_001604,2632,2634,A,"> coding (612-614/1080 nt)","T7p03","serine-threonine kinase",0,0,9592,0,0,0,0
+NC_001604,2659,2661,C,"> coding (639-641/1080 nt)","T7p03","serine-threonine kinase",0,0,9078,0,0,0,0
+NC_001604,2681,2683,A,"> coding (661-663/1080 nt)","T7p03","serine-threonine kinase",0,0,8523,0,0,0,0
+NC_001604,2707,2709,C,"> coding (687-689/1080 nt)","T7p03","serine-threonine kinase",0,0,8016,0,0,0,0
+NC_001604,2750,2752,A,"> coding (730-732/1080 nt)","T7p03","serine-threonine kinase",0,0,8727,0,0,0,0
+NC_001604,2754,2756,A,"> coding (734-736/1080 nt)","T7p03","serine-threonine kinase",0,0,8456,0,0,0,0
+NC_001604,2772,2774,C,"> coding (752-754/1080 nt)","T7p03","serine-threonine kinase",0,0,8488,0,0,0,0
+NC_001604,2777,2779,A,"> coding (757-759/1080 nt)","T7p03","serine-threonine kinase",0,0,9072,0,0,0,0
+NC_001604,2791,2794,G,"> coding (771-774/1080 nt)","T7p03","serine-threonine kinase",0,0,3,8341,0,0,0
+NC_001604,2816,2818,A,"> coding (796-798/1080 nt)","T7p03","serine-threonine kinase",0,0,8378,0,0,0,0
+NC_001604,2840,2842,A,"> coding (820-822/1080 nt)","T7p03","serine-threonine kinase",0,0,8802,0,0,0,0
+NC_001604,2849,2851,A,"> coding (829-831/1080 nt)","T7p03","serine-threonine kinase",3,0,8690,0,0,0,0
+NC_001604,2862,2864,A,"> coding (842-844/1080 nt)","T7p03","serine-threonine kinase",0,0,7895,0,0,0,0
+NC_001604,2886,2888,G,"> coding (866-868/1080 nt)","T7p03","serine-threonine kinase",0,0,8620,0,0,0,0
+NC_001604,2961,2963,G,"> coding (941-943/1080 nt)","T7p03","serine-threonine kinase",0,0,8224,0,0,0,0
+NC_001604,2978,2981,G,"> coding (958-961/1080 nt)","T7p03","serine-threonine kinase",0,0,0,8807,0,0,0
+NC_001604,2984,2986,T,"> coding (964-966/1080 nt)","T7p03","serine-threonine kinase",0,0,8690,0,0,0,0
+NC_001604,3094,3096,G,"> coding (1074-1076/1080 nt)","T7p03","serine-threonine kinase",0,0,8855,0,0,0,0
+NC_001604,3126,3128,G,">/> intergenic (+26/-43)","T7p03/T7p07","serine-threonine kinase/RNA polymerase",0,0,9118,0,0,0,0
+NC_001604,3147,3149,T,">/> intergenic (+47/-22)","T7p03/T7p07","serine-threonine kinase/RNA polymerase",0,0,9791,0,0,0,0
+NC_001604,3169,3171,A," ","[T7p07]","[T7p07]",0,0,8734,0,0,0,0
+NC_001604,3227,3229,C,"> coding (57-59/2652 nt)","T7p07","RNA polymerase",0,0,8822,0,0,0,0
+NC_001604,3263,3265,T,"> coding (93-95/2652 nt)","T7p07","RNA polymerase",0,0,9672,0,0,0,0
+NC_001604,3283,3285,C,"> coding (113-115/2652 nt)","T7p07","RNA polymerase",0,0,9148,0,0,0,0
+NC_001604,3308,3310,G,"> coding (138-140/2652 nt)","T7p07","RNA polymerase",0,0,9761,0,0,0,0
+NC_001604,3333,3335,T,"> coding (163-165/2652 nt)","T7p07","RNA polymerase",0,0,9008,0,0,0,0
+NC_001604,3348,3350,A,"> coding (178-180/2652 nt)","T7p07","RNA polymerase",0,0,8665,0,0,0,0
+NC_001604,3397,3399,C,"> coding (227-229/2652 nt)","T7p07","RNA polymerase",0,0,7499,0,0,0,0
+NC_001604,3404,3406,C,"> coding (234-236/2652 nt)","T7p07","RNA polymerase",0,0,8239,0,0,0,0
+NC_001604,3435,3437,T,"> coding (265-267/2652 nt)","T7p07","RNA polymerase",0,0,8890,0,0,0,0
+NC_001604,3447,3449,A,"> coding (277-279/2652 nt)","T7p07","RNA polymerase",0,0,9112,0,0,0,0
+NC_001604,3467,3469,C,"> coding (297-299/2652 nt)","T7p07","RNA polymerase",0,0,9365,1,0,0,0
+NC_001604,3493,3495,A,"> coding (323-325/2652 nt)","T7p07","RNA polymerase",0,0,9395,0,0,0,0
+NC_001604,3598,3600,G,"> coding (428-430/2652 nt)","T7p07","RNA polymerase",0,0,7690,0,0,0,0
+NC_001604,3660,3664,A,"> coding (490-494/2652 nt)","T7p07","RNA polymerase",0,0,0,0,9299,0,0
+NC_001604,3693,3695,G,"> coding (523-525/2652 nt)","T7p07","RNA polymerase",0,0,8939,0,0,0,0
+NC_001604,3708,3710,A,"> coding (538-540/2652 nt)","T7p07","RNA polymerase",0,0,8569,0,0,0,0
+NC_001604,3714,3716,T,"> coding (544-546/2652 nt)","T7p07","RNA polymerase",0,0,8851,0,0,0,0
+NC_001604,3749,3751,G,"> coding (579-581/2652 nt)","T7p07","RNA polymerase",0,0,8774,0,0,0,0
+NC_001604,3865,3868,A,"> coding (695-698/2652 nt)","T7p07","RNA polymerase",0,0,0,10152,0,0,0
+NC_001604,3937,3939,C,"> coding (767-769/2652 nt)","T7p07","RNA polymerase",0,0,9501,0,0,0,0
+NC_001604,4030,4032,G,"> coding (860-862/2652 nt)","T7p07","RNA polymerase",0,0,9208,0,0,0,0
+NC_001604,4077,4079,A,"> coding (907-909/2652 nt)","T7p07","RNA polymerase",0,0,8785,0,0,0,0
+NC_001604,4102,4104,T,"> coding (932-934/2652 nt)","T7p07","RNA polymerase",0,0,9227,0,0,0,0
+NC_001604,4122,4124,A,"> coding (952-954/2652 nt)","T7p07","RNA polymerase",0,0,8929,0,0,0,0
+NC_001604,4141,4144,A,"> coding (971-974/2652 nt)","T7p07","RNA polymerase",0,0,0,8721,0,0,0
+NC_001604,4155,4158,A,"> coding (985-988/2652 nt)","T7p07","RNA polymerase",0,0,0,8921,0,0,0
+NC_001604,4167,4169,A,"> coding (997-999/2652 nt)","T7p07","RNA polymerase",0,0,8885,0,0,0,0
+NC_001604,4226,4228,C,"> coding (1056-1058/2652 nt)","T7p07","RNA polymerase",0,0,9441,0,0,0,0
+NC_001604,4250,4252,C,"> coding (1080-1082/2652 nt)","T7p07","RNA polymerase",0,0,9601,0,0,0,0
+NC_001604,4257,4259,A,"> coding (1087-1089/2652 nt)","T7p07","RNA polymerase",0,0,8850,0,0,0,0
+NC_001604,4302,4304,A,"> coding (1132-1134/2652 nt)","T7p07","RNA polymerase",0,0,8743,0,0,0,0
+NC_001604,4392,4394,T,"> coding (1222-1224/2652 nt)","T7p07","RNA polymerase",0,0,8665,0,0,0,0
+NC_001604,4418,4420,C,"> coding (1248-1250/2652 nt)","T7p07","RNA polymerase",0,0,9123,0,0,0,0
+NC_001604,4447,4449,T,"> coding (1277-1279/2652 nt)","T7p07","RNA polymerase",0,0,8434,0,0,0,0
+NC_001604,4469,4471,C,"> coding (1299-1301/2652 nt)","T7p07","RNA polymerase",0,0,8978,0,0,0,0
+NC_001604,4491,4493,A,"> coding (1321-1323/2652 nt)","T7p07","RNA polymerase",0,0,8281,0,0,0,0
+NC_001604,4512,4514,A,"> coding (1342-1344/2652 nt)","T7p07","RNA polymerase",0,0,8550,0,0,0,0
+NC_001604,4518,4520,A,"> coding (1348-1350/2652 nt)","T7p07","RNA polymerase",0,0,8290,0,0,0,0
+NC_001604,4551,4554,A,"> coding (1381-1384/2652 nt)","T7p07","RNA polymerase",0,0,0,8590,0,0,0
+NC_001604,4565,4567,A,"> coding (1395-1397/2652 nt)","T7p07","RNA polymerase",0,0,7627,0,0,0,0
+NC_001604,4574,4576,G,"> coding (1404-1406/2652 nt)","T7p07","RNA polymerase",0,0,8604,0,0,0,0
+NC_001604,4595,4597,C,"> coding (1425-1427/2652 nt)","T7p07","RNA polymerase",0,0,9051,0,0,0,0
+NC_001604,4621,4624,A,"> coding (1451-1454/2652 nt)","T7p07","RNA polymerase",0,0,0,9959,0,0,0
+NC_001604,4675,4677,G,"> coding (1505-1507/2652 nt)","T7p07","RNA polymerase",0,1,9448,0,0,0,0
+NC_001604,4716,4718,T,"> coding (1546-1548/2652 nt)","T7p07","RNA polymerase",0,0,8527,0,0,0,0
+NC_001604,4728,4731,G,"> coding (1558-1561/2652 nt)","T7p07","RNA polymerase",0,0,0,8164,0,0,0
+NC_001604,4762,4764,C,"> coding (1592-1594/2652 nt)","T7p07","RNA polymerase",0,0,8207,0,0,0,0
+NC_001604,4776,4778,T,"> coding (1606-1608/2652 nt)","T7p07","RNA polymerase",0,0,8219,0,0,0,0
+NC_001604,4782,4784,G,"> coding (1612-1614/2652 nt)","T7p07","RNA polymerase",0,0,8118,0,0,0,0
+NC_001604,4864,4866,A,"> coding (1694-1696/2652 nt)","T7p07","RNA polymerase",0,0,8479,0,0,0,0
+NC_001604,4884,4886,G,"> coding (1714-1716/2652 nt)","T7p07","RNA polymerase",0,1,8225,0,0,0,0
+NC_001604,4899,4901,A,"> coding (1729-1731/2652 nt)","T7p07","RNA polymerase",0,0,7827,0,0,0,0
+NC_001604,4935,4937,G,"> coding (1765-1767/2652 nt)","T7p07","RNA polymerase",0,0,8339,0,0,0,0
+NC_001604,4981,4983,A,"> coding (1811-1813/2652 nt)","T7p07","RNA polymerase",0,0,7872,0,0,0,0
+NC_001604,4992,4994,A,"> coding (1822-1824/2652 nt)","T7p07","RNA polymerase",0,0,8194,0,0,0,0
+NC_001604,5003,5005,G,"> coding (1833-1835/2652 nt)","T7p07","RNA polymerase",0,0,8108,0,0,0,0
+NC_001604,5088,5090,G,"> coding (1918-1920/2652 nt)","T7p07","RNA polymerase",0,0,8622,0,0,0,0
+NC_001604,5094,5096,A,"> coding (1924-1926/2652 nt)","T7p07","RNA polymerase",0,0,8001,0,0,0,0
+NC_001604,5159,5161,G,"> coding (1989-1991/2652 nt)","T7p07","RNA polymerase",0,0,8339,0,0,0,0
+NC_001604,5212,5214,T,"> coding (2042-2044/2652 nt)","T7p07","RNA polymerase",0,0,8219,0,0,0,0
+NC_001604,5215,5217,G,"> coding (2045-2047/2652 nt)","T7p07","RNA polymerase",0,0,8514,0,0,0,0
+NC_001604,5301,5303,A,"> coding (2131-2133/2652 nt)","T7p07","RNA polymerase",0,0,9027,0,0,0,0
+NC_001604,5350,5352,G,"> coding (2180-2182/2652 nt)","T7p07","RNA polymerase",0,0,7876,0,0,0,0
+NC_001604,5366,5368,T,"> coding (2196-2198/2652 nt)","T7p07","RNA polymerase",0,0,8176,0,0,0,0
+NC_001604,5369,5371,C,"> coding (2199-2201/2652 nt)","T7p07","RNA polymerase",0,0,8513,0,0,0,0
+NC_001604,5463,5465,A,"> coding (2293-2295/2652 nt)","T7p07","RNA polymerase",0,0,8378,0,0,0,0
+NC_001604,5487,5489,A,"> coding (2317-2319/2652 nt)","T7p07","RNA polymerase",2,0,8308,0,0,0,0
+NC_001604,5514,5516,T,"> coding (2344-2346/2652 nt)","T7p07","RNA polymerase",0,0,7996,0,0,0,0
+NC_001604,5560,5562,G,"> coding (2390-2392/2652 nt)","T7p07","RNA polymerase",0,0,8369,0,0,0,0
+NC_001604,5588,5591,T,"> coding (2418-2421/2652 nt)","T7p07","RNA polymerase",0,0,0,7613,0,0,0
+NC_001604,5646,5648,A,"> coding (2476-2478/2652 nt)","T7p07","RNA polymerase",0,0,7260,0,0,0,0
+NC_001604,5659,5661,A,"> coding (2489-2491/2652 nt)","T7p07","RNA polymerase",0,0,8007,0,0,0,0
+NC_001604,5702,5704,T,"> coding (2532-2534/2652 nt)","T7p07","RNA polymerase",0,0,7827,0,0,0,0
+NC_001604,5748,5751,A,"> coding (2578-2581/2652 nt)","T7p07","RNA polymerase",0,0,0,8216,1,0,0
+NC_001604,5769,5771,A,"> coding (2599-2601/2652 nt)","T7p07","RNA polymerase",0,0,8086,0,0,0,0
+NC_001604,5827,5829,A,">/> intergenic (+5/-178)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,7772,0,0,0,0
+NC_001604,5850,5852,G,">/> intergenic (+28/-155)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,7330,0,0,0,0
+NC_001604,5855,5857,A,">/> intergenic (+33/-150)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,7377,0,0,0,0
+NC_001604,5883,5885,T,">/> intergenic (+61/-122)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,7267,0,0,0,0
+NC_001604,5937,5939,T,">/> intergenic (+115/-68)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,7331,0,0,0,0
+NC_001604,5943,5945,T,">/> intergenic (+121/-62)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,7108,0,0,0,0
+NC_001604,5950,5952,C,">/> intergenic (+128/-55)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,7513,0,0,0,0
+NC_001604,5971,5973,T,">/> intergenic (+149/-34)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,8445,0,0,0,0
+NC_001604,5974,5976,A,">/> intergenic (+152/-31)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,8490,0,0,0,0
+NC_001604,5979,5981,A,">/> intergenic (+157/-26)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,8655,0,0,0,0
+NC_001604,6000,6002,T,">/> intergenic (+178/-5)","T7p07/T7p09","RNA polymerase/hypothetical protein",0,0,7345,0,0,0,0
+NC_001604,6020,6023,A,"> coding (14-17/129 nt)","T7p09","hypothetical protein",0,0,0,8462,0,0,0
+NC_001604,6031,6033,A,"> coding (25-27/129 nt)","T7p09","hypothetical protein",0,0,8507,0,0,0,0
+NC_001604,6070,6072,A,"> coding (64-66/129 nt)","T7p09","hypothetical protein",0,0,7457,0,0,0,0
+NC_001604,6122,6124,G,"> coding (116-118/129 nt)","T7p09","hypothetical protein",0,0,7787,0,0,0,0
+NC_001604,6126,6128,G,"> coding (120-122/129 nt)","T7p09","hypothetical protein",0,0,8140,0,0,0,0
+NC_001604,6139,6141,G,"> coding (3-5/258 nt)","T7p08","dGTPase inhibitor; target for F exclusion",0,0,8149,0,0,0,0
+NC_001604,6145,6147,T,"> coding (9-11/258 nt)","T7p08","dGTPase inhibitor; target for F exclusion",6,0,7778,0,0,0,0
+NC_001604,6184,6186,A,"> coding (48-50/258 nt)","T7p08","dGTPase inhibitor; target for F exclusion",0,0,7933,0,0,0,0
+NC_001604,6216,6218,T,"> coding (80-82/258 nt)","T7p08","dGTPase inhibitor; target for F exclusion",0,0,8352,0,0,0,0
+NC_001604,6247,6250,A,"> coding (111-114/258 nt)","T7p08","dGTPase inhibitor; target for F exclusion",0,0,0,7610,0,0,0
+NC_001604,6286,6288,A,"> coding (150-152/258 nt)","T7p08","dGTPase inhibitor; target for F exclusion",0,0,8484,0,0,0,0
+NC_001604,6409,6411,G,">/> intergenic (+15/-64)","T7p08/T7p10","dGTPase inhibitor; target for F exclusion/DNA ligase",0,0,7245,0,0,0,0
+NC_001604,6451,6453,T,">/> intergenic (+57/-22)","T7p08/T7p10","dGTPase inhibitor; target for F exclusion/DNA ligase",0,0,8522,0,0,0,0
+NC_001604,6468,6470,A,">/> intergenic (+74/-5)","T7p08/T7p10","dGTPase inhibitor; target for F exclusion/DNA ligase",0,0,8483,0,0,0,0
+NC_001604,6495,6497,C,"> coding (21-23/1080 nt)","T7p10","DNA ligase",0,0,8781,0,0,0,0
+NC_001604,6499,6501,T,"> coding (25-27/1080 nt)","T7p10","DNA ligase",0,0,8472,0,0,0,0
+NC_001604,6502,6504,A,"> coding (28-30/1080 nt)","T7p10","DNA ligase",0,0,8482,0,0,0,0
+NC_001604,6513,6515,T,"> coding (39-41/1080 nt)","T7p10","DNA ligase",0,0,8756,0,0,0,0
+NC_001604,6553,6555,G,"> coding (79-81/1080 nt)","T7p10","DNA ligase",0,0,7956,0,0,0,0
+NC_001604,6569,6571,A,"> coding (95-97/1080 nt)","T7p10","DNA ligase",0,0,8254,0,0,0,0
+NC_001604,6592,6594,G,"> coding (118-120/1080 nt)","T7p10","DNA ligase",0,0,7568,0,0,0,0
+NC_001604,6646,6649,A,"> coding (172-175/1080 nt)","T7p10","DNA ligase",0,0,0,8065,0,0,0
+NC_001604,6672,6674,A,"> coding (198-200/1080 nt)","T7p10","DNA ligase",0,0,9155,0,0,0,0
+NC_001604,6676,6678,G,"> coding (202-204/1080 nt)","T7p10","DNA ligase",0,0,9238,0,0,0,0
+NC_001604,6679,6681,T,"> coding (205-207/1080 nt)","T7p10","DNA ligase",0,0,8687,0,0,0,0
+NC_001604,6727,6729,A,"> coding (253-255/1080 nt)","T7p10","DNA ligase",0,0,8192,0,0,0,0
+NC_001604,6736,6738,T,"> coding (262-264/1080 nt)","T7p10","DNA ligase",0,0,7451,0,0,0,0
+NC_001604,6748,6751,G,"> coding (274-277/1080 nt)","T7p10","DNA ligase",0,0,0,7738,0,0,0
+NC_001604,6765,6767,G,"> coding (291-293/1080 nt)","T7p10","DNA ligase",0,0,7896,0,0,0,0
+NC_001604,6775,6777,T,"> coding (301-303/1080 nt)","T7p10","DNA ligase",0,0,7346,0,0,0,0
+NC_001604,6784,6786,G,"> coding (310-312/1080 nt)","T7p10","DNA ligase",0,0,7902,0,0,0,0
+NC_001604,6805,6807,A,"> coding (331-333/1080 nt)","T7p10","DNA ligase",0,0,7675,0,0,0,0
+NC_001604,6868,6870,A,"> coding (394-396/1080 nt)","T7p10","DNA ligase",0,0,8340,0,0,0,0
+NC_001604,6874,6876,A,"> coding (400-402/1080 nt)","T7p10","DNA ligase",0,0,8415,0,0,0,0
+NC_001604,6880,6882,C,"> coding (406-408/1080 nt)","T7p10","DNA ligase",0,0,8307,0,0,0,0
+NC_001604,6883,6885,T,"> coding (409-411/1080 nt)","T7p10","DNA ligase",0,1,8159,0,0,0,0
+NC_001604,6912,6915,A,"> coding (438-441/1080 nt)","T7p10","DNA ligase",0,0,0,7289,0,0,0
+NC_001604,6930,6932,C,"> coding (456-458/1080 nt)","T7p10","DNA ligase",0,0,7272,0,0,0,0
+NC_001604,7029,7031,C,"> coding (555-557/1080 nt)","T7p10","DNA ligase",0,0,7906,0,0,0,0
+NC_001604,7034,7036,A,"> coding (560-562/1080 nt)","T7p10","DNA ligase",0,0,7773,0,0,0,0
+NC_001604,7125,7127,G,"> coding (651-653/1080 nt)","T7p10","DNA ligase",0,0,7344,0,0,0,0
+NC_001604,7138,7140,A,"> coding (664-666/1080 nt)","T7p10","DNA ligase",0,0,7637,0,0,0,0
+NC_001604,7143,7145,C,"> coding (669-671/1080 nt)","T7p10","DNA ligase",0,0,7480,0,0,0,0
+NC_001604,7171,7173,A,"> coding (697-699/1080 nt)","T7p10","DNA ligase",0,0,7383,0,0,0,0
+NC_001604,7186,7189,A,"> coding (712-715/1080 nt)","T7p10","DNA ligase",0,0,0,7623,0,0,0
+NC_001604,7192,7194,A,"> coding (718-720/1080 nt)","T7p10","DNA ligase",0,0,7609,0,0,0,0
+NC_001604,7224,7226,G,"> coding (750-752/1080 nt)","T7p10","DNA ligase",0,0,7031,0,0,0,0
+NC_001604,7235,7238,G,"> coding (761-764/1080 nt)","T7p10","DNA ligase",0,0,0,7026,2,0,0
+NC_001604,7242,7245,A,"> coding (768-771/1080 nt)","T7p10","DNA ligase",0,0,1,7113,0,0,0
+NC_001604,7264,7266,A,"> coding (790-792/1080 nt)","T7p10","DNA ligase",0,0,6818,0,0,0,0
+NC_001604,7275,7278,T,"> coding (801-804/1080 nt)","T7p10","DNA ligase",0,0,0,6708,0,0,0
+NC_001604,7302,7304,T,"> coding (828-830/1080 nt)","T7p10","DNA ligase",0,0,7397,0,0,0,0
+NC_001604,7359,7362,A,"> coding (885-888/1080 nt)","T7p10","DNA ligase",0,0,0,7211,0,0,0
+NC_001604,7370,7372,C,"> coding (896-898/1080 nt)","T7p10","DNA ligase",0,0,7555,0,0,0,0
+NC_001604,7382,7385,G,"> coding (908-911/1080 nt)","T7p10","DNA ligase",0,0,0,6955,0,0,0
+NC_001604,7390,7392,T,"> coding (916-918/1080 nt)","T7p10","DNA ligase",0,1,6846,0,0,0,0
+NC_001604,7395,7397,C,"> coding (921-923/1080 nt)","T7p10","DNA ligase",0,0,7249,0,0,0,0
+NC_001604,7434,7436,C,"> coding (960-962/1080 nt)","T7p10","DNA ligase",0,0,7608,0,0,0,0
+NC_001604,7448,7450,G,"> coding (974-976/1080 nt)","T7p10","DNA ligase",0,0,7716,0,0,0,0
+NC_001604,7457,7459,A,"> coding (983-985/1080 nt)","T7p10","DNA ligase",0,0,7749,0,0,0,0
+NC_001604,7475,7477,A,"> coding (1001-1003/1080 nt)","T7p10","DNA ligase",0,0,7759,0,0,0,0
+NC_001604,7491,7493,T,"> coding (1017-1019/1080 nt)","T7p10","DNA ligase",0,0,7898,0,0,0,0
+NC_001604,7500,7502,C,"> coding (1026-1028/1080 nt)","T7p10","DNA ligase",0,0,7626,0,0,0,0
+NC_001604,7536,7538,C,"> coding (1062-1064/1080 nt)","T7p10","DNA ligase",0,0,7144,0,0,0,0
+NC_001604,7546,7549,A,"> coding (1072-1075/1080 nt)","T7p10","DNA ligase",0,0,0,7661,0,0,0
+NC_001604,7573,7575,G,">/> intergenic (+19/-33)","T7p10/T7p11","DNA ligase/hypothetical protein",0,0,6761,0,0,0,0
+NC_001604,7577,7579,G,">/> intergenic (+23/-29)","T7p10/T7p11","DNA ligase/hypothetical protein",0,0,7037,0,0,0,0
+NC_001604,7582,7584,T,">/> intergenic (+28/-24)","T7p10/T7p11","DNA ligase/hypothetical protein",0,0,7,0,0,0,0
+NC_001604,7590,7592,T,">/> intergenic (+36/-16)","T7p10/T7p11","DNA ligase/hypothetical protein",0,0,7,0,0,0,0
+NC_001604,7605,7607,T,">/> intergenic (+51/-1)","T7p10/T7p11","DNA ligase/hypothetical protein",0,0,7272,0,0,0,0
+NC_001604,7611,7613,T,"> coding (4-6/156 nt)","T7p11","hypothetical protein",0,0,7965,0,0,0,0
+NC_001604,7626,7628,A,"> coding (19-21/156 nt)","T7p11","hypothetical protein",0,1,7585,0,0,0,0
+NC_001604,7640,7642,T,"> coding (33-35/156 nt)","T7p11","hypothetical protein",0,0,8100,0,0,0,0
+NC_001604,7682,7684,C,"> coding (75-77/156 nt)","T7p11","hypothetical protein",0,0,7747,0,0,0,0
+NC_001604,7775,7777,A,">/> intergenic (+12/-14)","T7p11/T7p12","hypothetical protein/hypothetical protein",0,0,7871,0,0,0,0
+NC_001604,7892,7894,A,">/> intergenic (+12/-12)","T7p12/T7p13","hypothetical protein/hypothetical protein",0,0,7130,0,0,0,0
+NC_001604,7909,7911,T,"> coding (4-6/261 nt)","T7p13","hypothetical protein",0,0,8082,0,0,0,0
+NC_001604,7927,7930,A,"> coding (22-25/261 nt)","T7p13","hypothetical protein",38,0,0,7395,0,0,0
+NC_001604,7941,7943,T,"> coding (36-38/261 nt)","T7p13","hypothetical protein",0,0,7158,0,0,0,0
+NC_001604,8025,8027,T,"> coding (120-122/261 nt)","T7p13","hypothetical protein",0,0,6133,0,0,0,0
+NC_001604,8054,8056,C,"> coding (149-151/261 nt)","T7p13","hypothetical protein",0,0,6391,0,0,0,0
+NC_001604,8065,8067,T,"> coding (160-162/261 nt)","T7p13","hypothetical protein",0,0,6495,0,0,0,0
+NC_001604,8071,8073,A,"> coding (166-168/261 nt)","T7p13","hypothetical protein",0,0,6535,0,0,0,0
+NC_001604,8086,8088,A,"> coding (181-183/261 nt)","T7p13","hypothetical protein",0,0,6765,0,0,0,0
+NC_001604,8114,8116,C,"> coding (209-211/261 nt)","T7p13","hypothetical protein",0,1,7029,0,0,0,0
+NC_001604,8121,8123,C,"> coding (216-218/261 nt)","T7p13","hypothetical protein",0,0,7281,0,0,0,0
+NC_001604,8143,8145,A,"> coding (238-240/261 nt)","T7p13","hypothetical protein",0,0,7096,0,0,0,0
+NC_001604,8168,8170,G,"> coding (3-5/591 nt)","T7p14","nucleotide kinase",0,0,7170,0,0,0,0
+NC_001604,8191,8193,G,"> coding (26-28/591 nt)","T7p14","nucleotide kinase",0,1,7160,1,0,0,0
+NC_001604,8194,8198,A,"> coding (29-33/591 nt)","T7p14","nucleotide kinase",0,0,0,10,7113,0,0
+NC_001604,8200,8203,A,"> coding (35-38/591 nt)","T7p14","nucleotide kinase",0,0,1,7014,0,0,0
+NC_001604,8204,8206,C,"> coding (39-41/591 nt)","T7p14","nucleotide kinase",0,0,7067,0,0,0,0
+NC_001604,8223,8225,G,"> coding (58-60/591 nt)","T7p14","nucleotide kinase",0,0,6968,0,0,0,0
+NC_001604,8244,8246,A,"> coding (79-81/591 nt)","T7p14","nucleotide kinase",0,0,7567,0,0,0,0
+NC_001604,8274,8276,A,"> coding (109-111/591 nt)","T7p14","nucleotide kinase",0,0,7442,0,0,0,0
+NC_001604,8345,8347,C,"> coding (180-182/591 nt)","T7p14","nucleotide kinase",0,0,7780,0,0,0,0
+NC_001604,8354,8356,T,"> coding (189-191/591 nt)","T7p14","nucleotide kinase",0,0,8177,0,0,0,0
+NC_001604,8387,8389,C,"> coding (222-224/591 nt)","T7p14","nucleotide kinase",0,0,7568,0,0,0,0
+NC_001604,8402,8405,C,"> coding (237-240/591 nt)","T7p14","nucleotide kinase",0,0,0,7800,0,0,0
+NC_001604,8408,8410,A,"> coding (243-245/591 nt)","T7p14","nucleotide kinase",0,0,7690,0,0,0,0
+NC_001604,8419,8422,A,"> coding (254-257/591 nt)","T7p14","nucleotide kinase",0,0,0,7543,0,0,0
+NC_001604,8437,8439,A,"> coding (272-274/591 nt)","T7p14","nucleotide kinase",0,0,7118,0,0,0,0
+NC_001604,8453,8455,C,"> coding (288-290/591 nt)","T7p14","nucleotide kinase",0,0,7216,0,0,0,0
+NC_001604,8460,8462,A,"> coding (295-297/591 nt)","T7p14","nucleotide kinase",0,0,6567,0,0,0,0
+NC_001604,8475,8477,A,"> coding (310-312/591 nt)","T7p14","nucleotide kinase",0,0,7608,0,0,0,0
+NC_001604,8542,8544,C,"> coding (377-379/591 nt)","T7p14","nucleotide kinase",0,1,7191,0,0,0,0
+NC_001604,8556,8558,T,"> coding (391-393/591 nt)","T7p14","nucleotide kinase",0,0,7579,0,0,0,0
+NC_001604,8615,8617,G,"> coding (450-452/591 nt)","T7p14","nucleotide kinase",0,0,7355,0,0,0,0
+NC_001604,8639,8641,A,"> coding (474-476/591 nt)","T7p14","nucleotide kinase",0,0,7367,0,0,0,0
+NC_001604,8688,8690,A,"> coding (523-525/591 nt)","T7p14","nucleotide kinase",0,0,7833,0,0,0,0
+NC_001604,8700,8702,A,"> coding (535-537/591 nt)","T7p14","nucleotide kinase",0,0,8105,0,0,0,0
+NC_001604,8715,8717,A,"> coding (550-552/591 nt)","T7p14","nucleotide kinase",0,0,7955,0,0,0,0
+NC_001604,8724,8726,T,"> coding (559-561/591 nt)","T7p14","nucleotide kinase",0,0,8112,0,0,0,0
+NC_001604,8730,8732,A,"> coding (565-567/591 nt)","T7p14","nucleotide kinase",0,0,8211,0,0,0,0
+NC_001604,8742,8744,A,"> coding (577-579/591 nt)","T7p14","nucleotide kinase",0,0,7564,0,0,0,0
+NC_001604,8768,8771,C,"> coding (20-23/147 nt)","T7p15","hypothetical protein",0,0,0,7088,1,0,0
+NC_001604,8823,8825,A,"> coding (75-77/147 nt)","T7p15","hypothetical protein",0,0,8209,0,0,0,0
+NC_001604,8831,8833,G,"> coding (83-85/147 nt)","T7p15","hypothetical protein",0,1,8067,0,0,0,0
+NC_001604,8873,8875,T,"> coding (125-127/147 nt)","T7p15","hypothetical protein",0,0,8429,0,0,0,0
+NC_001604,8878,8880,A,"> coding (130-132/147 nt)","T7p15","hypothetical protein",0,0,8806,0,0,0,0
+NC_001604,8903,8905,A,"> coding (6-8/195 nt)","T7p16","RNA polymerase inhibitor",0,0,7972,0,0,0,0
+NC_001604,8909,8911,A,"> coding (12-14/195 nt)","T7p16","RNA polymerase inhibitor",0,0,7506,0,0,0,0
+NC_001604,8943,8946,T,"> coding (46-49/195 nt)","T7p16","RNA polymerase inhibitor",0,0,0,8096,0,0,0
+NC_001604,8947,8949,G,"> coding (50-52/195 nt)","T7p16","RNA polymerase inhibitor",0,0,8195,0,0,0,0
+NC_001604,9001,9003,C,"> coding (104-106/195 nt)","T7p16","RNA polymerase inhibitor",0,0,7843,0,0,0,0
+NC_001604,9051,9053,T,"> coding (154-156/195 nt)","T7p16","RNA polymerase inhibitor",0,0,7744,0,0,0,0
+NC_001604,9108,9110,G,">/> intergenic (+16/-48)","T7p16/T7p17","RNA polymerase inhibitor/Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7562,0,0,0,0
+NC_001604,9117,9119,C,">/> intergenic (+25/-39)","T7p16/T7p17","RNA polymerase inhibitor/Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7455,0,0,0,0
+NC_001604,9126,9128,A,">/> intergenic (+34/-30)","T7p16/T7p17","RNA polymerase inhibitor/Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7783,0,0,0,0
+NC_001604,9131,9133,A,">/> intergenic (+39/-25)","T7p16/T7p17","RNA polymerase inhibitor/Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7994,0,0,0,0
+NC_001604,9136,9138,A,">/> intergenic (+44/-20)","T7p16/T7p17","RNA polymerase inhibitor/Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7975,0,0,0,0
+NC_001604,9142,9144,A,">/> intergenic (+50/-14)","T7p16/T7p17","RNA polymerase inhibitor/Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7640,0,0,0,0
+NC_001604,9171,9174,T,"> coding (14-17/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,0,7530,0,0,0
+NC_001604,9187,9189,G,"> coding (30-32/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7759,0,0,0,0
+NC_001604,9248,9250,T,"> coding (91-93/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7215,0,0,0,0
+NC_001604,9251,9253,G,"> coding (94-96/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7186,0,0,0,0
+NC_001604,9256,9258,C,"> coding (99-101/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7740,0,0,0,0
+NC_001604,9272,9274,A,"> coding (115-117/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7214,0,0,0,0
+NC_001604,9290,9292,C,"> coding (133-135/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7781,0,0,0,0
+NC_001604,9296,9298,A,"> coding (139-141/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7738,0,0,0,0
+NC_001604,9301,9303,C,"> coding (144-146/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7727,0,0,0,0
+NC_001604,9327,9329,A,"> coding (170-172/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7828,0,0,0,0
+NC_001604,9410,9412,A,"> coding (253-255/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6986,0,0,0,0
+NC_001604,9419,9421,A,"> coding (262-264/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6921,0,0,0,0
+NC_001604,9430,9432,G,"> coding (273-275/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,1,6911,0,0,0,0
+NC_001604,9473,9475,T,"> coding (316-318/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6740,0,0,0,0
+NC_001604,9482,9484,A,"> coding (325-327/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6705,1,0,0,0
+NC_001604,9496,9498,T,"> coding (339-341/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6112,0,0,0,0
+NC_001604,9515,9517,A,"> coding (358-360/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7244,0,0,0,0
+NC_001604,9553,9556,A,"> coding (396-399/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,1,7069,0,0,0
+NC_001604,9605,9607,A,"> coding (448-450/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6756,0,0,0,0
+NC_001604,9611,9613,A,"> coding (454-456/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6821,0,0,0,0
+NC_001604,9704,9706,T,"> coding (547-549/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6567,0,0,0,0
+NC_001604,9726,9728,G,"> coding (569-571/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6824,0,0,0,0
+NC_001604,9773,9775,A,"> coding (616-618/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,7268,0,0,0,0
+NC_001604,9782,9784,A,"> coding (625-627/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6843,0,0,0,0
+NC_001604,9798,9800,A,"> coding (641-643/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6445,0,0,0,0
+NC_001604,9804,9806,G,"> coding (647-649/699 nt)","T7p17","Gp2.5-like ssDNA binding protein and ssDNA annealing protein",0,0,6635,0,0,0,0
+NC_001604,9867,9869,G,"> coding (11-13/420 nt)","T7p18","endonuclease",0,0,6845,0,0,0,0
+NC_001604,9872,9875,A,"> coding (16-19/420 nt)","T7p18","endonuclease",0,0,0,6724,0,0,0
+NC_001604,9905,9907,G,"> coding (49-51/420 nt)","T7p18","endonuclease",0,0,6599,0,0,0,0
+NC_001604,9912,9914,G,"> coding (56-58/420 nt)","T7p18","endonuclease",0,0,6657,0,0,0,0
+NC_001604,9922,9924,G,"> coding (66-68/420 nt)","T7p18","endonuclease",0,0,7079,0,0,0,0
+NC_001604,9938,9940,A,"> coding (82-84/420 nt)","T7p18","endonuclease",0,0,7159,0,0,0,0
+NC_001604,9941,9943,G,"> coding (85-87/420 nt)","T7p18","endonuclease",0,0,7241,0,0,0,0
+NC_001604,9947,9949,G,"> coding (91-93/420 nt)","T7p18","endonuclease",0,0,7329,0,0,0,0
+NC_001604,9973,9975,A,"> coding (117-119/420 nt)","T7p18","endonuclease",0,0,7206,0,0,0,0
+NC_001604,10013,10015,A,"> coding (157-159/420 nt)","T7p18","endonuclease",0,0,7272,0,0,0,0
+NC_001604,10060,10062,C,"> coding (204-206/420 nt)","T7p18","endonuclease",0,0,6883,0,0,0,0
+NC_001604,10087,10090,A,"> coding (231-234/420 nt)","T7p18","endonuclease",0,0,0,7329,0,0,0
+NC_001604,10111,10113,A,"> coding (255-257/420 nt)","T7p18","endonuclease",0,0,6905,0,0,0,0
+NC_001604,10117,10119,G,"> coding (261-263/420 nt)","T7p18","endonuclease",0,0,7221,0,0,0,0
+NC_001604,10132,10135,G,"> coding (276-279/420 nt)","T7p18","endonuclease",0,0,0,6916,0,0,0
+NC_001604,10139,10141,A,"> coding (283-285/420 nt)","T7p18","endonuclease",0,0,7231,0,0,0,0
+NC_001604,10143,10145,T,"> coding (287-289/420 nt)","T7p18","endonuclease",0,0,7434,0,0,0,0
+NC_001604,10218,10220,C,"> coding (362-364/420 nt)","T7p18","endonuclease",0,0,6632,0,0,0,0
+NC_001604,10230,10232,T,"> coding (374-376/420 nt)","T7p18","endonuclease",0,1,6666,1,0,0,0
+NC_001604,10244,10246,A,"> coding (388-390/420 nt)","T7p18","endonuclease",0,0,6650,0,0,0,0
+NC_001604,10247,10249,G,"> coding (391-393/420 nt)","T7p18","endonuclease",0,0,7119,0,0,0,0
+NC_001604,10275,10277,A,"> coding (19-21/450 nt)","T7p19","endonuclease",0,1,7429,0,0,0,0
+NC_001604,10286,10288,A,"> coding (30-32/450 nt)","T7p19","endonuclease",0,0,7456,0,0,0,0
+NC_001604,10299,10301,T,"> coding (43-45/450 nt)","T7p19","endonuclease",0,0,7343,0,0,0,0
+NC_001604,10324,10326,T,"> coding (68-70/450 nt)","T7p19","endonuclease",0,0,7865,0,0,0,0
+NC_001604,10328,10330,A,"> coding (72-74/450 nt)","T7p19","endonuclease",0,0,7689,0,0,0,0
+NC_001604,10343,10346,A,"> coding (87-90/450 nt)","T7p19","endonuclease",0,0,0,7432,0,0,0
+NC_001604,10353,10355,A,"> coding (97-99/450 nt)","T7p19","endonuclease",0,0,6518,0,0,0,0
+NC_001604,10374,10376,A,"> coding (118-120/450 nt)","T7p19","endonuclease",0,0,6276,0,0,0,0
+NC_001604,10433,10435,A,"> coding (177-179/450 nt)","T7p19","endonuclease",0,0,7079,0,0,0,0
+NC_001604,10454,10456,A,"> coding (198-200/450 nt)","T7p19","endonuclease",0,0,6332,0,0,0,0
+NC_001604,10457,10459,G,"> coding (201-203/450 nt)","T7p19","endonuclease",0,0,6646,0,0,0,0
+NC_001604,10465,10467,G,"> coding (209-211/450 nt)","T7p19","endonuclease",0,0,6568,0,0,0,0
+NC_001604,10468,10470,A,"> coding (212-214/450 nt)","T7p19","endonuclease",0,0,6504,0,0,0,0
+NC_001604,10481,10483,A,"> coding (225-227/450 nt)","T7p19","endonuclease",0,0,7076,0,0,0,0
+NC_001604,10501,10503,G,"> coding (245-247/450 nt)","T7p19","endonuclease",0,0,7348,0,0,0,0
+NC_001604,10511,10514,C,"> coding (255-258/450 nt)","T7p19","endonuclease",0,0,0,7510,0,0,0
+NC_001604,10563,10565,A,"> coding (307-309/450 nt)","T7p19","endonuclease",0,0,6444,0,0,0,0
+NC_001604,10597,10600,A,"> coding (341-344/450 nt)","T7p19","endonuclease",0,0,0,7156,0,0,0
+NC_001604,10623,10625,A,"> coding (367-369/450 nt)","T7p19","endonuclease",0,0,7191,0,0,0,0
+NC_001604,10646,10648,A,"> coding (390-392/450 nt)","T7p19","endonuclease",0,0,7163,0,0,0,0
+NC_001604,10653,10655,C,"> coding (397-399/450 nt)","T7p19","endonuclease",0,1,7542,0,0,0,0
+NC_001604,10667,10670,C,"> coding (411-414/450 nt)","T7p19","endonuclease",0,0,0,7163,0,0,0
+NC_001604,10671,10673,T,"> coding (415-417/450 nt)","T7p19","endonuclease",0,0,7018,0,0,0,0
+NC_001604,10682,10686,A,"> coding (426-430/450 nt)","T7p19","endonuclease",0,0,0,0,6827,0,0
+NC_001604,10689,10691,A,"> coding (433-435/450 nt)","T7p19","endonuclease",0,0,7740,0,0,0,0
+NC_001604,10697,10699,A,"> coding (441-443/450 nt)","T7p19","endonuclease",0,0,7388,0,0,0,0
+NC_001604,10701,10703,A,"> coding (445-447/450 nt)","T7p19","endonuclease",0,0,7166,0,0,0,0
+NC_001604,10721,10723,T,"> coding (16-18/456 nt)","T7p20","amidase",0,0,7089,0,0,0,0
+NC_001604,10724,10726,A,"> coding (19-21/456 nt)","T7p20","amidase",0,0,6737,0,0,0,0
+NC_001604,10751,10753,T,"> coding (46-48/456 nt)","T7p20","amidase",0,0,7361,0,0,0,0
+NC_001604,10817,10819,A,"> coding (112-114/456 nt)","T7p20","amidase",0,0,7385,0,0,0,0
+NC_001604,10825,10827,G,"> coding (120-122/456 nt)","T7p20","amidase",0,0,6954,0,0,0,0
+NC_001604,10840,10842,G,"> coding (135-137/456 nt)","T7p20","amidase",0,0,7380,0,0,0,0
+NC_001604,10850,10852,T,"> coding (145-147/456 nt)","T7p20","amidase",0,0,7362,0,0,0,0
+NC_001604,10918,10920,G,"> coding (213-215/456 nt)","T7p20","amidase",0,0,7737,0,0,0,0
+NC_001604,10970,10972,A,"> coding (265-267/456 nt)","T7p20","amidase",0,0,7210,0,0,0,0
+NC_001604,10991,10993,T,"> coding (286-288/456 nt)","T7p20","amidase",0,0,7020,0,0,0,0
+NC_001604,11001,11003,C,"> coding (296-298/456 nt)","T7p20","amidase",0,0,7422,0,0,0,0
+NC_001604,11004,11006,A,"> coding (299-301/456 nt)","T7p20","amidase",0,0,7695,0,0,0,0
+NC_001604,11013,11015,C,"> coding (308-310/456 nt)","T7p20","amidase",0,0,7483,0,0,0,0
+NC_001604,11070,11072,C,"> coding (365-367/456 nt)","T7p20","amidase",0,0,7071,0,0,0,0
+NC_001604,11098,11100,C,"> coding (393-395/456 nt)","T7p20","amidase",0,2,7000,0,0,0,0
+NC_001604,11124,11126,G,"> coding (419-421/456 nt)","T7p20","amidase",0,0,7012,0,0,0,0
+NC_001604,11177,11179,A,">/> intergenic (+16/-46)","T7p20/T7p21","amidase/HNH endonuclease",0,0,7052,0,0,0,0
+NC_001604,11180,11182,G,">/> intergenic (+19/-43)","T7p20/T7p21","amidase/HNH endonuclease",0,0,7399,0,0,0,0
+NC_001604,11195,11197,T,">/> intergenic (+34/-28)","T7p20/T7p21","amidase/HNH endonuclease",0,0,7122,0,0,0,0
+NC_001604,11198,11200,C,">/> intergenic (+37/-25)","T7p20/T7p21","amidase/HNH endonuclease",0,0,7286,0,0,0,0
+NC_001604,11201,11203,T,">/> intergenic (+40/-22)","T7p20/T7p21","amidase/HNH endonuclease",0,0,7193,0,0,0,0
+NC_001604,11220,11222,A,">/> intergenic (+59/-3)","T7p20/T7p21","amidase/HNH endonuclease",0,0,6931,0,0,0,0
+NC_001604,11240,11242,A,"> coding (16-18/366 nt)","T7p21","HNH endonuclease",0,0,6917,0,0,0,0
+NC_001604,11280,11282,G,"> coding (56-58/366 nt)","T7p21","HNH endonuclease",0,0,6413,0,0,0,0
+NC_001604,11294,11296,G,"> coding (70-72/366 nt)","T7p21","HNH endonuclease",0,0,6402,0,0,0,0
+NC_001604,11305,11308,A,"> coding (81-84/366 nt)","T7p21","HNH endonuclease",0,0,0,6762,0,0,0
+NC_001604,11377,11379,C,"> coding (153-155/366 nt)","T7p21","HNH endonuclease",0,0,7268,0,0,0,0
+NC_001604,11380,11383,A,"> coding (156-159/366 nt)","T7p21","HNH endonuclease",0,0,0,7273,0,0,0
+NC_001604,11385,11388,A,"> coding (161-164/366 nt)","T7p21","HNH endonuclease",0,0,0,7212,0,0,0
+NC_001604,11410,11412,A,"> coding (186-188/366 nt)","T7p21","HNH endonuclease",0,1,6804,0,0,0,0
+NC_001604,11431,11433,A,"> coding (207-209/366 nt)","T7p21","HNH endonuclease",0,0,6103,0,0,0,0
+NC_001604,11434,11436,G,"> coding (210-212/366 nt)","T7p21","HNH endonuclease",0,0,6626,0,0,0,0
+NC_001604,11454,11456,A,"> coding (230-232/366 nt)","T7p21","HNH endonuclease",0,0,6434,0,0,0,0
+NC_001604,11457,11459,G,"> coding (233-235/366 nt)","T7p21","HNH endonuclease",0,3,6387,0,0,0,0
+NC_001604,11488,11490,G,"> coding (264-266/366 nt)","T7p21","HNH endonuclease",0,0,6118,0,0,0,0
+NC_001604,11492,11494,A,"> coding (268-270/366 nt)","T7p21","HNH endonuclease",0,0,6356,0,0,0,0
+NC_001604,11504,11506,T,"> coding (280-282/366 nt)","T7p21","HNH endonuclease",0,0,6692,0,0,0,0
+NC_001604,11541,11543,T,"> coding (317-319/366 nt)","T7p21","HNH endonuclease",0,0,7027,0,0,0,0
+NC_001604,11556,11558,G,"> coding (332-334/366 nt)","T7p21","HNH endonuclease",0,0,6946,0,0,0,0
+NC_001604,11595,11597,T,"> coding (31-33/1701 nt)","T7p22","DNA primase/helicase",0,0,6410,0,0,0,0
+NC_001604,11599,11601,T,"> coding (35-37/1701 nt)","T7p22","DNA primase/helicase",0,0,6828,0,0,0,0
+NC_001604,11625,11627,G,"> coding (61-63/1701 nt)","T7p22","DNA primase/helicase",0,0,6527,0,0,0,0
+NC_001604,11637,11639,G,">|> coding (73-75/1701 nt)|coding (3-5/123 nt)","T7p22|T7p23","DNA primase/helicase|hypothetical protein",0,0,6675,0,0,0,0
+NC_001604,11712,11714,A,">|> coding (148-150/1701 nt)|coding (78-80/123 nt)","T7p22|T7p23","DNA primase/helicase|hypothetical protein",0,0,6180,0,0,0,0
+NC_001604,11719,11721,G,">|> coding (155-157/1701 nt)|coding (85-87/123 nt)","T7p22|T7p23","DNA primase/helicase|hypothetical protein",0,0,6408,0,0,0,0
+NC_001604,11726,11729,A,">|> coding (162-165/1701 nt)|coding (92-95/123 nt)","T7p22|T7p23","DNA primase/helicase|hypothetical protein",0,0,0,6448,0,0,0
+NC_001604,11733,11735,A,">|> coding (169-171/1701 nt)|coding (99-101/123 nt)","T7p22|T7p23","DNA primase/helicase|hypothetical protein",0,0,6542,0,0,0,0
+NC_001604,11736,11738,C,">|> coding (172-174/1701 nt)|coding (102-104/123 nt)","T7p22|T7p23","DNA primase/helicase|hypothetical protein",0,0,6416,0,0,0,0
+NC_001604,11748,11750,A,">|> coding (184-186/1701 nt)|coding (114-116/123 nt)","T7p22|T7p23","DNA primase/helicase|hypothetical protein",0,0,6566,0,0,0,0
+NC_001604,11778,11781,G,">|> coding (214-217/1701 nt)|coding (25-28/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,0,6732,0,0,0
+NC_001604,11830,11832,A,">|> coding (266-268/1701 nt)|coding (77-79/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6554,0,0,0,0
+NC_001604,11862,11864,A,">|> coding (298-300/1701 nt)|coding (109-111/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6855,0,0,0,0
+NC_001604,11899,11901,G,">|> coding (335-337/1701 nt)|coding (146-148/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6768,0,0,0,0
+NC_001604,11940,11942,A,">|> coding (376-378/1701 nt)|coding (187-189/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6285,0,0,0,0
+NC_001604,11952,11954,T,">|> coding (388-390/1701 nt)|coding (199-201/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6615,0,0,0,0
+NC_001604,11991,11993,G,">|> coding (427-429/1701 nt)|coding (238-240/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7259,0,0,0,0
+NC_001604,12040,12042,A,">|> coding (476-478/1701 nt)|coding (287-289/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6542,0,0,0,0
+NC_001604,12098,12100,G,">|> coding (534-536/1701 nt)|coding (345-347/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7191,0,0,0,0
+NC_001604,12150,12152,T,">|> coding (586-588/1701 nt)|coding (397-399/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6438,0,0,0,0
+NC_001604,12198,12200,G,">|> coding (634-636/1701 nt)|coding (445-447/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7169,0,0,0,0
+NC_001604,12204,12206,A,">|> coding (640-642/1701 nt)|coding (451-453/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6781,0,0,0,0
+NC_001604,12278,12280,A,">|> coding (714-716/1701 nt)|coding (525-527/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7278,0,0,0,0
+NC_001604,12293,12295,A,">|> coding (729-731/1701 nt)|coding (540-542/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,2,6952,0,0,0,0
+NC_001604,12310,12312,A,">|> coding (746-748/1701 nt)|coding (557-559/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7583,0,0,0,0
+NC_001604,12370,12372,T,">|> coding (806-808/1701 nt)|coding (617-619/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7776,0,0,0,0
+NC_001604,12422,12424,T,">|> coding (858-860/1701 nt)|coding (669-671/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7357,0,0,0,0
+NC_001604,12427,12430,T,">|> coding (863-866/1701 nt)|coding (674-677/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,0,7524,0,0,0
+NC_001604,12469,12471,C,">|> coding (905-907/1701 nt)|coding (716-718/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7348,0,0,0,0
+NC_001604,12512,12514,G,">|> coding (948-950/1701 nt)|coding (759-761/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7711,0,0,0,0
+NC_001604,12550,12553,G,">|> coding (986-989/1701 nt)|coding (797-800/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,0,7333,0,0,0
+NC_001604,12563,12565,G,">|> coding (999-1001/1701 nt)|coding (810-812/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7639,0,0,0,0
+NC_001604,12668,12670,A,">|> coding (1104-1106/1701 nt)|coding (915-917/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7188,0,0,0,0
+NC_001604,12812,12814,G,">|> coding (1248-1250/1701 nt)|coding (1059-1061/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6199,0,0,0,0
+NC_001604,12912,12914,A,">|> coding (1348-1350/1701 nt)|coding (1159-1161/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7131,0,0,0,0
+NC_001604,12915,12917,G,">|> coding (1351-1353/1701 nt)|coding (1162-1164/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7228,0,0,0,0
+NC_001604,12933,12936,G,">|> coding (1369-1372/1701 nt)|coding (1180-1183/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",1,0,1,7363,0,0,0
+NC_001604,12952,12954,T,">|> coding (1388-1390/1701 nt)|coding (1199-1201/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6331,0,0,0,0
+NC_001604,12968,12970,C,">|> coding (1404-1406/1701 nt)|coding (1215-1217/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,7220,0,0,0,0
+NC_001604,12975,12977,A,">|> coding (1411-1413/1701 nt)|coding (1222-1224/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6899,0,0,0,0
+NC_001604,12981,12983,A,">|> coding (1417-1419/1701 nt)|coding (1228-1230/1512 nt)","T7p22|T7p24","DNA primase/helicase|DNA primase/helicase",0,0,6768,0,0,0,0
+NC_001604,13001,13004,C,">|>|> coding (1437-1440/1701 nt)|coding (1248-1251/1512 nt)|coding (14-17/339 nt)","T7p22|T7p24|T7p25","DNA primase/helicase|DNA primase/helicase|hypothetical protein",0,0,0,6937,0,0,0
+NC_001604,13006,13008,T,">|>|> coding (1442-1444/1701 nt)|coding (1253-1255/1512 nt)|coding (19-21/339 nt)","T7p22|T7p24|T7p25","DNA primase/helicase|DNA primase/helicase|hypothetical protein",0,0,7101,0,0,0,0
+NC_001604,13066,13068,C,">|>|> coding (1502-1504/1701 nt)|coding (1313-1315/1512 nt)|coding (79-81/339 nt)","T7p22|T7p24|T7p25","DNA primase/helicase|DNA primase/helicase|hypothetical protein",0,0,7048,0,0,0,0
+NC_001604,13131,13133,T,">|>|> coding (1567-1569/1701 nt)|coding (1378-1380/1512 nt)|coding (144-146/339 nt)","T7p22|T7p24|T7p25","DNA primase/helicase|DNA primase/helicase|hypothetical protein",0,0,6902,0,0,0,0
+NC_001604,13177,13179,A,">|>|> coding (1613-1615/1701 nt)|coding (1424-1426/1512 nt)|coding (190-192/339 nt)","T7p22|T7p24|T7p25","DNA primase/helicase|DNA primase/helicase|hypothetical protein",0,0,6711,0,0,0,0
+NC_001604,13209,13212,G,">|>|> coding (1645-1648/1701 nt)|coding (1456-1459/1512 nt)|coding (222-225/339 nt)","T7p22|T7p24|T7p25","DNA primase/helicase|DNA primase/helicase|hypothetical protein",0,0,0,6827,0,0,0
+NC_001604,13282,13284,T,"> coding (295-297/339 nt)","T7p25","hypothetical protein",0,0,6754,0,0,0,0
+NC_001604,13303,13305,T,"> coding (316-318/339 nt)","T7p25","hypothetical protein",0,0,6962,0,0,0,0
+NC_001604,13317,13319,C,"> coding (330-332/339 nt)","T7p25","hypothetical protein",0,0,6446,0,0,0,0
+NC_001604,13338,13340,A,">/> intergenic (+12/-12)","T7p25/T7p26","hypothetical protein/hypothetical protein",0,0,6223,0,0,0,0
+NC_001604,13358,13360,A,"> coding (7-9/213 nt)","T7p26","hypothetical protein",0,0,6718,0,0,0,0
+NC_001604,13436,13438,A,"> coding (85-87/213 nt)","T7p26","hypothetical protein",0,0,6752,0,0,0,0
+NC_001604,13502,13504,A,"> coding (151-153/213 nt)","T7p26","hypothetical protein",0,0,6832,0,0,0,0
+NC_001604,13518,13520,C,"> coding (167-169/213 nt)","T7p26","hypothetical protein",0,0,7355,0,0,0,0
+NC_001604,13528,13530,A,"> coding (177-179/213 nt)","T7p26","hypothetical protein",0,0,7103,0,0,0,0
+NC_001604,13545,13547,T,"> coding (194-196/213 nt)","T7p26","hypothetical protein",0,0,7164,0,0,0,0
+NC_001604,13550,13552,A,"> coding (199-201/213 nt)","T7p26","hypothetical protein",0,0,6922,0,0,0,0
+NC_001604,13556,13558,T,"> coding (205-207/213 nt)","T7p26","hypothetical protein",0,0,6867,0,0,0,0
+NC_001604,13567,13569,A,">/> intergenic (+3/-15)","T7p26/T7p27","hypothetical protein/hypothetical protein",0,0,7179,0,0,0,0
+NC_001604,13576,13578,A,">/> intergenic (+12/-6)","T7p26/T7p27","hypothetical protein/hypothetical protein",0,0,6694,0,0,0,0
+NC_001604,13600,13602,A,"> coding (17-19/270 nt)","T7p27","hypothetical protein",0,0,6801,0,0,0,0
+NC_001604,13681,13683,T,"> coding (98-100/270 nt)","T7p27","hypothetical protein",0,0,6350,0,0,0,0
+NC_001604,13776,13778,A,"> coding (193-195/270 nt)","T7p27","hypothetical protein",0,0,7168,0,0,0,0
+NC_001604,13876,13878,A,">/> intergenic (+23/-49)","T7p27/T7p28","hypothetical protein/hypothetical protein",0,0,6657,0,0,0,0
+NC_001604,13935,13937,C,"> coding (9-11/408 nt)","T7p28","hypothetical protein",0,0,6789,0,0,0,0
+NC_001604,13939,13941,A,"> coding (13-15/408 nt)","T7p28","hypothetical protein",0,0,6587,0,0,0,0
+NC_001604,13955,13957,A,"> coding (29-31/408 nt)","T7p28","hypothetical protein",0,0,7220,0,0,0,0
+NC_001604,13963,13965,A,"> coding (37-39/408 nt)","T7p28","hypothetical protein",0,0,7697,0,0,0,0
+NC_001604,14074,14076,A,"> coding (148-150/408 nt)","T7p28","hypothetical protein",0,0,7116,0,0,0,0
+NC_001604,14126,14128,C,"> coding (200-202/408 nt)","T7p28","hypothetical protein",0,0,8485,0,0,0,0
+NC_001604,14147,14149,G,"> coding (221-223/408 nt)","T7p28","hypothetical protein",0,0,8205,0,0,0,0
+NC_001604,14163,14165,G,"> coding (237-239/408 nt)","T7p28","hypothetical protein",0,0,8136,0,0,0,0
+NC_001604,14206,14208,A,"> coding (280-282/408 nt)","T7p28","hypothetical protein",0,0,7838,0,0,0,0
+NC_001604,14289,14291,T,"> coding (363-365/408 nt)","T7p28","hypothetical protein",0,0,7995,0,0,0,0
+NC_001604,14303,14305,T,"> coding (377-379/408 nt)","T7p28","hypothetical protein",0,0,8024,0,0,0,0
+NC_001604,14345,14347,A,">/> intergenic (+11/-6)","T7p28/T7p29","hypothetical protein/DNA polymerase I",0,0,8159,0,0,0,0
+NC_001604,14360,14362,T,"> coding (8-10/2115 nt)","T7p29","DNA polymerase I",0,0,8191,0,0,0,0
+NC_001604,14381,14383,C,"> coding (29-31/2115 nt)","T7p29","DNA polymerase I",0,0,7741,0,0,0,0
+NC_001604,14413,14416,G,"> coding (61-64/2115 nt)","T7p29","DNA polymerase I",0,0,0,7293,0,0,0
+NC_001604,14563,14565,A,"> coding (211-213/2115 nt)","T7p29","DNA polymerase I",0,0,6850,0,0,0,0
+NC_001604,14571,14573,A,"> coding (219-221/2115 nt)","T7p29","DNA polymerase I",0,0,6880,0,0,0,0
+NC_001604,14624,14626,C,"> coding (272-274/2115 nt)","T7p29","DNA polymerase I",0,0,7586,0,0,0,0
+NC_001604,14640,14642,T,"> coding (288-290/2115 nt)","T7p29","DNA polymerase I",0,0,7854,0,0,0,0
+NC_001604,14673,14675,G,"> coding (321-323/2115 nt)","T7p29","DNA polymerase I",0,0,6679,0,0,0,0
+NC_001604,14698,14700,C,"> coding (346-348/2115 nt)","T7p29","DNA polymerase I",0,0,7042,0,0,0,0
+NC_001604,14703,14706,A,"> coding (351-354/2115 nt)","T7p29","DNA polymerase I",0,0,0,6858,0,0,0
+NC_001604,14710,14712,T,"> coding (358-360/2115 nt)","T7p29","DNA polymerase I",0,0,6763,0,0,0,0
+NC_001604,14713,14715,G,"> coding (361-363/2115 nt)","T7p29","DNA polymerase I",0,0,6802,0,0,0,0
+NC_001604,14724,14726,T,"> coding (372-374/2115 nt)","T7p29","DNA polymerase I",0,0,6812,0,0,0,0
+NC_001604,14735,14738,G,"> coding (383-386/2115 nt)","T7p29","DNA polymerase I",0,0,0,6966,1,0,0
+NC_001604,14760,14762,G,"> coding (408-410/2115 nt)","T7p29","DNA polymerase I",0,0,6893,0,0,0,0
+NC_001604,14770,14772,A,"> coding (418-420/2115 nt)","T7p29","DNA polymerase I",0,0,6566,0,0,0,0
+NC_001604,14779,14781,T,"> coding (427-429/2115 nt)","T7p29","DNA polymerase I",0,0,6395,0,0,0,0
+NC_001604,14802,14804,G,"> coding (450-452/2115 nt)","T7p29","DNA polymerase I",0,0,6473,0,0,0,0
+NC_001604,14887,14889,A,"> coding (535-537/2115 nt)","T7p29","DNA polymerase I",0,0,7036,0,0,0,0
+NC_001604,14917,14919,A,"> coding (565-567/2115 nt)","T7p29","DNA polymerase I",0,0,6925,0,0,0,0
+NC_001604,14928,14930,C,"> coding (576-578/2115 nt)","T7p29","DNA polymerase I",0,0,6496,0,0,0,0
+NC_001604,14944,14946,T,"> coding (592-594/2115 nt)","T7p29","DNA polymerase I",0,0,6876,0,0,0,0
+NC_001604,14981,14983,C,"> coding (629-631/2115 nt)","T7p29","DNA polymerase I",0,0,7014,0,0,0,0
+NC_001604,15028,15030,A,"> coding (676-678/2115 nt)","T7p29","DNA polymerase I",0,0,7022,0,0,0,0
+NC_001604,15043,15045,G,"> coding (691-693/2115 nt)","T7p29","DNA polymerase I",0,0,7144,0,0,0,0
+NC_001604,15048,15050,C,"> coding (696-698/2115 nt)","T7p29","DNA polymerase I",0,0,6920,0,0,0,0
+NC_001604,15052,15054,T,"> coding (700-702/2115 nt)","T7p29","DNA polymerase I",0,0,7182,0,0,0,0
+NC_001604,15060,15063,A,"> coding (708-711/2115 nt)","T7p29","DNA polymerase I",0,0,0,7355,0,0,0
+NC_001604,15118,15120,A,"> coding (766-768/2115 nt)","T7p29","DNA polymerase I",0,0,6774,0,0,0,0
+NC_001604,15128,15130,A,"> coding (776-778/2115 nt)","T7p29","DNA polymerase I",0,0,6946,0,0,0,0
+NC_001604,15154,15156,A,"> coding (802-804/2115 nt)","T7p29","DNA polymerase I",0,0,6054,0,0,0,0
+NC_001604,15205,15207,A,"> coding (853-855/2115 nt)","T7p29","DNA polymerase I",0,0,6910,0,0,0,0
+NC_001604,15210,15212,C,"> coding (858-860/2115 nt)","T7p29","DNA polymerase I",0,0,7250,0,0,0,0
+NC_001604,15229,15231,A,"> coding (877-879/2115 nt)","T7p29","DNA polymerase I",0,0,6750,0,0,0,0
+NC_001604,15244,15246,T,"> coding (892-894/2115 nt)","T7p29","DNA polymerase I",0,0,7088,0,0,0,0
+NC_001604,15302,15304,C,"> coding (950-952/2115 nt)","T7p29","DNA polymerase I",0,0,7226,0,0,0,0
+NC_001604,15332,15335,C,"> coding (980-983/2115 nt)","T7p29","DNA polymerase I",0,0,0,7150,0,0,0
+NC_001604,15352,15354,T,"> coding (1000-1002/2115 nt)","T7p29","DNA polymerase I",0,0,6661,0,0,0,0
+NC_001604,15357,15359,C,"> coding (1005-1007/2115 nt)","T7p29","DNA polymerase I",0,0,7113,0,0,0,0
+NC_001604,15385,15387,A,"> coding (1033-1035/2115 nt)","T7p29","DNA polymerase I",0,0,7173,0,0,0,0
+NC_001604,15400,15402,G,"> coding (1048-1050/2115 nt)","T7p29","DNA polymerase I",0,0,7017,0,0,0,0
+NC_001604,15404,15406,G,"> coding (1052-1054/2115 nt)","T7p29","DNA polymerase I",0,0,6655,0,0,0,0
+NC_001604,15408,15410,C,"> coding (1056-1058/2115 nt)","T7p29","DNA polymerase I",0,0,6786,0,0,0,0
+NC_001604,15429,15431,G,"> coding (1077-1079/2115 nt)","T7p29","DNA polymerase I",0,2,6892,0,0,0,0
+NC_001604,15480,15482,C,"> coding (1128-1130/2115 nt)","T7p29","DNA polymerase I",0,0,6902,0,0,0,0
+NC_001604,15511,15513,A,"> coding (1159-1161/2115 nt)","T7p29","DNA polymerase I",0,0,7354,0,0,0,0
+NC_001604,15555,15557,G,"> coding (1203-1205/2115 nt)","T7p29","DNA polymerase I",0,0,7312,0,0,0,0
+NC_001604,15562,15564,A,"> coding (1210-1212/2115 nt)","T7p29","DNA polymerase I",0,0,7268,0,0,0,0
+NC_001604,15615,15617,C,"> coding (1263-1265/2115 nt)","T7p29","DNA polymerase I",0,0,6265,0,0,0,0
+NC_001604,15633,15635,G,"> coding (1281-1283/2115 nt)","T7p29","DNA polymerase I",0,0,5848,0,0,0,0
+NC_001604,15644,15646,C,"> coding (1292-1294/2115 nt)","T7p29","DNA polymerase I",0,0,6647,0,0,0,0
+NC_001604,15654,15656,C,"> coding (1302-1304/2115 nt)","T7p29","DNA polymerase I",0,0,7147,0,0,0,0
+NC_001604,15657,15659,A,"> coding (1305-1307/2115 nt)","T7p29","DNA polymerase I",0,0,7107,0,0,0,0
+NC_001604,15668,15670,A,"> coding (1316-1318/2115 nt)","T7p29","DNA polymerase I",0,0,7316,0,0,0,0
+NC_001604,15675,15677,G,"> coding (1323-1325/2115 nt)","T7p29","DNA polymerase I",0,0,7270,0,0,0,0
+NC_001604,15714,15717,T,"> coding (1362-1365/2115 nt)","T7p29","DNA polymerase I",0,0,1,7261,1,0,0
+NC_001604,15732,15734,T,"> coding (1380-1382/2115 nt)","T7p29","DNA polymerase I",0,0,7216,1,0,0,0
+NC_001604,15739,15741,G,"> coding (1387-1389/2115 nt)","T7p29","DNA polymerase I",0,0,7396,0,0,0,0
+NC_001604,15758,15760,G,"> coding (1406-1408/2115 nt)","T7p29","DNA polymerase I",0,0,7247,0,0,0,0
+NC_001604,15823,15825,T,"> coding (1471-1473/2115 nt)","T7p29","DNA polymerase I",0,0,7913,0,0,0,0
+NC_001604,15902,15904,C,"> coding (1550-1552/2115 nt)","T7p29","DNA polymerase I",0,0,6940,0,0,0,0
+NC_001604,15931,15933,G,"> coding (1579-1581/2115 nt)","T7p29","DNA polymerase I",0,0,7271,0,0,0,0
+NC_001604,15985,15987,A,"> coding (1633-1635/2115 nt)","T7p29","DNA polymerase I",0,0,6413,0,0,0,0
+NC_001604,16012,16014,A,"> coding (1660-1662/2115 nt)","T7p29","DNA polymerase I",0,0,7388,0,0,0,0
+NC_001604,16028,16032,C,"> coding (1676-1680/2115 nt)","T7p29","DNA polymerase I",0,0,0,1,7521,1,0
+NC_001604,16088,16090,G,"> coding (1736-1738/2115 nt)","T7p29","DNA polymerase I",0,0,6854,0,0,0,0
+NC_001604,16117,16119,A,"> coding (1765-1767/2115 nt)","T7p29","DNA polymerase I",0,0,6812,0,0,0,0
+NC_001604,16132,16134,A,"> coding (1780-1782/2115 nt)","T7p29","DNA polymerase I",0,0,6697,0,0,0,0
+NC_001604,16187,16189,C,"> coding (1835-1837/2115 nt)","T7p29","DNA polymerase I",0,0,7361,0,0,0,0
+NC_001604,16219,16221,A,"> coding (1867-1869/2115 nt)","T7p29","DNA polymerase I",0,0,7024,0,0,0,0
+NC_001604,16258,16260,A,"> coding (1906-1908/2115 nt)","T7p29","DNA polymerase I",0,0,7730,0,0,0,0
+NC_001604,16277,16279,G,"> coding (1925-1927/2115 nt)","T7p29","DNA polymerase I",0,0,7958,0,0,0,0
+NC_001604,16282,16285,G,"> coding (1930-1933/2115 nt)","T7p29","DNA polymerase I",0,0,0,7570,0,0,0
+NC_001604,16288,16290,T,"> coding (1936-1938/2115 nt)","T7p29","DNA polymerase I",0,0,8034,0,0,0,0
+NC_001604,16304,16306,G,"> coding (1952-1954/2115 nt)","T7p29","DNA polymerase I",0,0,7654,0,0,0,0
+NC_001604,16316,16318,A,"> coding (1964-1966/2115 nt)","T7p29","DNA polymerase I",0,0,7492,0,0,0,0
+NC_001604,16388,16390,G,"> coding (2036-2038/2115 nt)","T7p29","DNA polymerase I",0,0,6928,0,0,0,0
+NC_001604,16440,16442,G,"> coding (2088-2090/2115 nt)","T7p29","DNA polymerase I",0,0,7626,0,0,0,0
+NC_001604,16451,16453,G,"> coding (2099-2101/2115 nt)","T7p29","DNA polymerase I",0,0,7364,0,0,0,0
+NC_001604,16457,16459,T,"> coding (2105-2107/2115 nt)","T7p29","DNA polymerase I",0,0,7380,0,0,0,0
+NC_001604,16490,16492,A,"> coding (8-10/357 nt)","T7p30","hypothetical protein",0,0,7188,0,0,0,0
+NC_001604,16517,16519,A,"> coding (35-37/357 nt)","T7p30","hypothetical protein",0,0,6998,0,0,0,0
+NC_001604,16534,16536,A,"> coding (52-54/357 nt)","T7p30","hypothetical protein",0,0,6653,0,0,0,0
+NC_001604,16537,16539,T,"> coding (55-57/357 nt)","T7p30","hypothetical protein",0,0,6680,0,0,0,0
+NC_001604,16543,16545,A,"> coding (61-63/357 nt)","T7p30","hypothetical protein",0,0,7143,0,0,0,0
+NC_001604,16549,16551,G,"> coding (67-69/357 nt)","T7p30","hypothetical protein",0,0,7130,0,0,0,0
+NC_001604,16566,16568,C,"> coding (84-86/357 nt)","T7p30","hypothetical protein",0,0,6403,0,0,0,0
+NC_001604,16585,16587,A,"> coding (103-105/357 nt)","T7p30","hypothetical protein",0,0,6789,0,0,0,0
+NC_001604,16615,16617,A,"> coding (133-135/357 nt)","T7p30","hypothetical protein",0,0,6919,0,0,0,0
+NC_001604,16618,16620,T,"> coding (136-138/357 nt)","T7p30","hypothetical protein",0,0,6907,0,0,0,0
+NC_001604,16636,16639,A,"> coding (154-157/357 nt)","T7p30","hypothetical protein",0,0,0,6651,0,0,0
+NC_001604,16655,16657,A,"> coding (173-175/357 nt)","T7p30","hypothetical protein",0,0,6811,0,0,0,0
+NC_001604,16726,16728,T,"> coding (244-246/357 nt)","T7p30","hypothetical protein",0,0,6383,0,0,0,0
+NC_001604,16766,16769,T,"> coding (284-287/357 nt)","T7p30","hypothetical protein",0,0,0,6791,0,0,0
+NC_001604,16775,16777,G,"> coding (293-295/357 nt)","T7p30","hypothetical protein",0,0,6727,0,0,0,0
+NC_001604,16785,16788,A,"> coding (303-306/357 nt)","T7p30","hypothetical protein",0,0,0,6445,0,0,0
+NC_001604,16818,16820,A,"> coding (336-338/357 nt)","T7p30","hypothetical protein",0,0,7084,0,0,0,0
+NC_001604,16822,16824,A,"> coding (340-342/357 nt)","T7p30","hypothetical protein",0,0,7092,0,0,0,0
+NC_001604,16830,16833,A,"> coding (348-351/357 nt)","T7p30","hypothetical protein",0,0,0,5962,0,0,0
+NC_001604,16843,16845,A,">/> intergenic (+4/-6)","T7p30/T7p31","hypothetical protein/hypothetical protein",0,0,6059,0,0,0,0
+NC_001604,16862,16864,A,">|> coding (12-14/297 nt)|coding (12-14/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6155,0,0,0,0
+NC_001604,16866,16868,A,">|> coding (16-18/297 nt)|coding (16-18/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6300,0,0,0,0
+NC_001604,16869,16871,T,">|> coding (19-21/297 nt)|coding (19-21/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6090,0,0,0,0
+NC_001604,16872,16874,A,">|> coding (22-24/297 nt)|coding (22-24/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6162,0,0,0,0
+NC_001604,16895,16897,A,">|> coding (45-47/297 nt)|coding (45-47/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6890,0,0,0,0
+NC_001604,16929,16931,A,">|> coding (79-81/297 nt)|coding (79-81/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6669,0,0,0,0
+NC_001604,16976,16979,C,">|> coding (126-129/297 nt)|coding (126-129/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,0,6493,0,0,0
+NC_001604,16986,16988,A,">|> coding (136-138/297 nt)|coding (136-138/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6325,0,0,0,0
+NC_001604,16996,16998,A,">|> coding (146-148/297 nt)|coding (146-148/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6483,1,0,0,0
+NC_001604,17061,17063,T,">|> coding (211-213/297 nt)|coding (211-213/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6830,0,0,0,0
+NC_001604,17111,17113,T,">|> coding (261-263/297 nt)|coding (261-263/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6554,0,0,0,0
+NC_001604,17115,17117,A,">|> coding (265-267/297 nt)|coding (265-267/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6435,0,0,0,0
+NC_001604,17137,17139,G,">|> coding (287-289/297 nt)|coding (287-289/300 nt)","T7p31|T7p32","hypothetical protein|DUF2675 domain-containing protein",0,0,6534,0,0,0,0
+NC_001604,17165,17167,A,">|> coding (19-21/213 nt)|coding (16-18/210 nt)","T7p31|T7p33","hypothetical protein|hypothetical protein",0,0,6913,0,0,0,0
+NC_001604,17183,17186,A,">|> coding (37-40/213 nt)|coding (34-37/210 nt)","T7p31|T7p33","hypothetical protein|hypothetical protein",0,0,1,6507,0,0,0
+NC_001604,17191,17193,C,">|> coding (45-47/213 nt)|coding (42-44/210 nt)","T7p31|T7p33","hypothetical protein|hypothetical protein",0,0,6425,0,0,0,0
+NC_001604,17200,17202,T,">|> coding (54-56/213 nt)|coding (51-53/210 nt)","T7p31|T7p33","hypothetical protein|hypothetical protein",0,0,6091,0,0,0,0
+NC_001604,17253,17255,C,">|> coding (107-109/213 nt)|coding (104-106/210 nt)","T7p31|T7p33","hypothetical protein|hypothetical protein",0,0,6195,0,0,0,0
+NC_001604,17304,17306,G,">|> coding (158-160/213 nt)|coding (155-157/210 nt)","T7p31|T7p33","hypothetical protein|hypothetical protein",0,0,7353,0,0,0,0
+NC_001604,17307,17309,A,">|> coding (161-163/213 nt)|coding (158-160/210 nt)","T7p31|T7p33","hypothetical protein|hypothetical protein",0,0,7313,0,0,0,0
+NC_001604,17330,17332,T,">|> coding (184-186/213 nt)|coding (181-183/210 nt)","T7p31|T7p33","hypothetical protein|hypothetical protein",0,0,7379,0,0,0,0
+NC_001604,17336,17338,A,">|> coding (190-192/213 nt)|coding (187-189/210 nt)","T7p31|T7p33","hypothetical protein|hypothetical protein",0,0,7278,0,0,0,0
+NC_001604,17344,17346,G,">|> coding (198-200/213 nt)|coding (195-197/210 nt)","T7p31|T7p33","hypothetical protein|hypothetical protein",0,0,7135,0,0,0,0
+NC_001604,17409,17411,G,"> coding (51-53/159 nt)","T7p34","Gp5.9-like inihibitor of recBCD nuclease",0,0,6030,0,0,0,0
+NC_001604,17497,17499,A,"> coding (139-141/159 nt)","T7p34","Gp5.9-like inihibitor of recBCD nuclease",0,0,7315,0,0,0,0
+NC_001604,17522,17524,A,"> coding (19-21/903 nt)","T7p35","exonuclease",0,0,6811,0,0,0,0
+NC_001604,17560,17562,G,"> coding (57-59/903 nt)","T7p35","exonuclease",0,0,5712,0,0,0,0
+NC_001604,17618,17620,T,"> coding (115-117/903 nt)","T7p35","exonuclease",0,0,6051,0,0,0,0
+NC_001604,17631,17633,G,"> coding (128-130/903 nt)","T7p35","exonuclease",0,0,6674,0,0,0,0
+NC_001604,17643,17645,T,"> coding (140-142/903 nt)","T7p35","exonuclease",0,0,6574,0,0,0,0
+NC_001604,17673,17675,C,"> coding (170-172/903 nt)","T7p35","exonuclease",0,0,7445,0,0,0,0
+NC_001604,17712,17714,C,"> coding (209-211/903 nt)","T7p35","exonuclease",0,0,7102,0,0,0,0
+NC_001604,17727,17729,G,"> coding (224-226/903 nt)","T7p35","exonuclease",0,0,6714,0,0,0,0
+NC_001604,17777,17779,A,"> coding (274-276/903 nt)","T7p35","exonuclease",0,0,7114,0,0,0,0
+NC_001604,17791,17793,C,"> coding (288-290/903 nt)","T7p35","exonuclease",0,0,7271,0,0,0,0
+NC_001604,17825,17827,A,"> coding (322-324/903 nt)","T7p35","exonuclease",0,0,7074,0,0,0,0
+NC_001604,17834,17836,G,"> coding (331-333/903 nt)","T7p35","exonuclease",0,0,7066,0,0,0,0
+NC_001604,17840,17842,T,"> coding (337-339/903 nt)","T7p35","exonuclease",0,0,7010,0,0,0,0
+NC_001604,17861,17863,T,"> coding (358-360/903 nt)","T7p35","exonuclease",0,0,7201,0,0,0,0
+NC_001604,17905,17907,G,"> coding (402-404/903 nt)","T7p35","exonuclease",0,0,8652,0,0,0,0
+NC_001604,17920,17922,G,"> coding (417-419/903 nt)","T7p35","exonuclease",0,0,8189,0,0,0,0
+NC_001604,17990,17992,T,"> coding (487-489/903 nt)","T7p35","exonuclease",0,0,6763,0,0,0,0
+NC_001604,18001,18003,C,"> coding (498-500/903 nt)","T7p35","exonuclease",0,0,7467,0,0,0,0
+NC_001604,18094,18096,G,"> coding (591-593/903 nt)","T7p35","exonuclease",0,0,6969,0,0,0,0
+NC_001604,18119,18121,G,"> coding (616-618/903 nt)","T7p35","exonuclease",0,0,7270,0,0,0,0
+NC_001604,18132,18135,G,"> coding (629-632/903 nt)","T7p35","exonuclease",0,0,0,7650,0,0,0
+NC_001604,18163,18165,C,"> coding (660-662/903 nt)","T7p35","exonuclease",0,0,7370,0,0,0,0
+NC_001604,18182,18185,A,"> coding (679-682/903 nt)","T7p35","exonuclease",0,0,0,6722,0,0,0
+NC_001604,18212,18214,A,"> coding (709-711/903 nt)","T7p35","exonuclease",0,0,6948,0,0,0,0
+NC_001604,18230,18232,A,"> coding (727-729/903 nt)","T7p35","exonuclease",0,0,6993,0,0,0,0
+NC_001604,18234,18236,G,"> coding (731-733/903 nt)","T7p35","exonuclease",0,0,6954,0,0,0,0
+NC_001604,18239,18241,A,"> coding (736-738/903 nt)","T7p35","exonuclease",0,0,6648,0,0,0,0
+NC_001604,18247,18249,C,"> coding (744-746/903 nt)","T7p35","exonuclease",0,0,6539,0,0,0,0
+NC_001604,18267,18269,T,"> coding (764-766/903 nt)","T7p35","exonuclease",0,0,6481,0,0,0,0
+NC_001604,18270,18272,G,"> coding (767-769/903 nt)","T7p35","exonuclease",0,0,6663,0,0,0,0
+NC_001604,18331,18333,G,"> coding (828-830/903 nt)","T7p35","exonuclease",0,0,7095,0,0,0,0
+NC_001604,18336,18338,A,"> coding (833-835/903 nt)","T7p35","exonuclease",0,0,6653,0,0,0,0
+NC_001604,18371,18373,T,"> coding (868-870/903 nt)","T7p35","exonuclease",0,0,6958,0,0,0,0
+NC_001604,18387,18389,T,"> coding (884-886/903 nt)","T7p35","exonuclease",0,0,6727,0,0,0,0
+NC_001604,18420,18422,G,"> coding (27-29/114 nt)","T7p36","DUF5516 domain-containing protein",0,1,6422,0,0,0,0
+NC_001604,18425,18427,T,"> coding (32-34/114 nt)","T7p36","DUF5516 domain-containing protein",0,0,6298,0,0,0,0
+NC_001604,18449,18451,T,"> coding (56-58/114 nt)","T7p36","DUF5516 domain-containing protein",0,0,6169,0,0,0,0
+NC_001604,18455,18458,G,"> coding (62-65/114 nt)","T7p36","DUF5516 domain-containing protein",0,0,0,6335,0,0,0
+NC_001604,18461,18463,T,"> coding (68-70/114 nt)","T7p36","DUF5516 domain-containing protein",0,0,5843,0,0,0,0
+NC_001604,18464,18466,G,"> coding (71-73/114 nt)","T7p36","DUF5516 domain-containing protein",0,0,5927,0,0,0,0
+NC_001604,18509,18511,A,">/> intergenic (+2/-94)","T7p36/T7p37","DUF5516 domain-containing protein/DUF2717 domain-containing protein",0,0,6434,0,0,0,0
+NC_001604,18520,18522,C,">/> intergenic (+13/-83)","T7p36/T7p37","DUF5516 domain-containing protein/DUF2717 domain-containing protein",0,0,7194,0,0,0,0
+NC_001604,18524,18526,A,">/> intergenic (+17/-79)","T7p36/T7p37","DUF5516 domain-containing protein/DUF2717 domain-containing protein",0,0,7089,0,0,0,0
+NC_001604,18545,18547,G,">/> intergenic (+38/-58)","T7p36/T7p37","DUF5516 domain-containing protein/DUF2717 domain-containing protein",0,0,6607,0,0,0,0
+NC_001604,18553,18556,G,">/> intergenic (+46/-49)","T7p36/T7p37","DUF5516 domain-containing protein/DUF2717 domain-containing protein",0,0,0,6597,0,0,0
+NC_001604,18559,18561,T,">/> intergenic (+52/-44)","T7p36/T7p37","DUF5516 domain-containing protein/DUF2717 domain-containing protein",0,2,6804,0,0,0,0
+NC_001604,18573,18575,T,">/> intergenic (+66/-30)","T7p36/T7p37","DUF5516 domain-containing protein/DUF2717 domain-containing protein",0,0,6502,0,0,0,0
+NC_001604,18580,18582,T,">/> intergenic (+73/-23)","T7p36/T7p37","DUF5516 domain-containing protein/DUF2717 domain-containing protein",0,0,6111,0,0,0,0
+NC_001604,18599,18601,T,">/> intergenic (+92/-4)","T7p36/T7p37","DUF5516 domain-containing protein/DUF2717 domain-containing protein",0,0,6886,0,0,0,0
+NC_001604,18637,18639,C,"> coding (33-35/255 nt)","T7p37","DUF2717 domain-containing protein",0,0,6861,0,0,0,0
+NC_001604,18759,18761,C,"> coding (155-157/255 nt)","T7p37","DUF2717 domain-containing protein",0,0,6744,0,0,0,0
+NC_001604,18769,18771,G,"> coding (165-167/255 nt)","T7p37","DUF2717 domain-containing protein",0,0,6988,0,0,0,0
+NC_001604,18772,18774,T,"> coding (168-170/255 nt)","T7p37","DUF2717 domain-containing protein",0,0,6967,0,0,0,0
+NC_001604,18781,18783,G,"> coding (177-179/255 nt)","T7p37","DUF2717 domain-containing protein",0,0,6927,0,0,0,0
+NC_001604,18848,18851,G,"> coding (244-247/255 nt)","T7p37","DUF2717 domain-containing protein",0,0,0,6926,0,0,0
+NC_001604,18869,18871,T,"> coding (6-8/267 nt)","T7p38","DUF5476 family protein",0,0,7066,0,0,0,0
+NC_001604,18879,18882,A,"> coding (16-19/267 nt)","T7p38","DUF5476 family protein",0,0,0,7014,0,0,0
+NC_001604,18885,18888,A,"> coding (22-25/267 nt)","T7p38","DUF5476 family protein",0,0,1,7201,0,0,0
+NC_001604,18940,18942,C,"> coding (77-79/267 nt)","T7p38","DUF5476 family protein",0,0,6643,0,0,0,0
+NC_001604,18969,18971,G,"> coding (106-108/267 nt)","T7p38","DUF5476 family protein",0,0,6899,0,0,0,0
+NC_001604,18995,18997,G,"> coding (132-134/267 nt)","T7p38","DUF5476 family protein",0,0,6999,0,0,0,0
+NC_001604,19017,19019,A,"> coding (154-156/267 nt)","T7p38","DUF5476 family protein",0,0,6868,0,0,0,0
+NC_001604,19059,19061,A,"> coding (196-198/267 nt)","T7p38","DUF5476 family protein",0,0,7337,0,0,0,0
+NC_001604,19089,19091,A,"> coding (226-228/267 nt)","T7p38","DUF5476 family protein",0,0,7464,0,0,0,0
+NC_001604,19113,19115,T,"> coding (250-252/267 nt)","T7p38","DUF5476 family protein",0,0,7365,0,0,0,0
+NC_001604,19199,19201,G,"> coding (70-72/402 nt)","T7p39","host range and adsorption protein",0,0,6538,0,0,0,0
+NC_001604,19208,19210,A,"> coding (79-81/402 nt)","T7p39","host range and adsorption protein",0,0,6813,0,0,0,0
+NC_001604,19226,19228,T,"> coding (97-99/402 nt)","T7p39","host range and adsorption protein",0,0,6927,0,0,0,0
+NC_001604,19231,19233,G,"> coding (102-104/402 nt)","T7p39","host range and adsorption protein",0,0,7001,0,0,0,0
+NC_001604,19306,19309,A,"> coding (177-180/402 nt)","T7p39","host range and adsorption protein",0,0,0,7388,0,0,0
+NC_001604,19355,19357,A,"> coding (226-228/402 nt)","T7p39","host range and adsorption protein",0,0,6539,0,0,0,0
+NC_001604,19411,19413,G,"> coding (282-284/402 nt)","T7p39","host range and adsorption protein",0,0,7167,0,0,0,0
+NC_001604,19433,19435,A,"> coding (304-306/402 nt)","T7p39","host range and adsorption protein",0,0,7023,0,0,0,0
+NC_001604,19439,19441,T,"> coding (310-312/402 nt)","T7p39","host range and adsorption protein",0,0,6563,0,0,0,0
+NC_001604,19473,19475,G,"> coding (344-346/402 nt)","T7p39","host range and adsorption protein",0,0,6663,0,0,0,0
+NC_001604,19517,19519,T,"> coding (388-390/402 nt)","T7p39","host range and adsorption protein",0,0,6333,0,0,0,0
+NC_001604,19537,19539,G,"> coding (3-5/300 nt)","T7p40","host range and adsorption protein",0,2,6842,0,0,0,0
+NC_001604,19544,19546,A,"> coding (10-12/300 nt)","T7p40","host range and adsorption protein",0,0,7058,0,0,0,0
+NC_001604,19565,19567,A,"> coding (31-33/300 nt)","T7p40","host range and adsorption protein",0,0,6413,0,0,0,0
+NC_001604,19586,19588,A,"> coding (52-54/300 nt)","T7p40","host range and adsorption protein",0,0,6583,0,0,0,0
+NC_001604,19601,19604,G,"> coding (67-70/300 nt)","T7p40","host range and adsorption protein",0,0,0,6331,3,0,0
+NC_001604,19616,19618,A,"> coding (82-84/300 nt)","T7p40","host range and adsorption protein",0,2,6619,0,0,0,0
+NC_001604,19718,19720,A,"> coding (184-186/300 nt)","T7p40","host range and adsorption protein",0,0,6534,0,0,0,0
+NC_001604,19725,19727,T,"> coding (191-193/300 nt)","T7p40","host range and adsorption protein",0,0,6547,0,0,0,0
+NC_001604,19752,19754,A,"> coding (218-220/300 nt)","T7p40","host range and adsorption protein",0,0,7092,0,0,0,0
+NC_001604,19766,19768,A,"> coding (232-234/300 nt)","T7p40","host range and adsorption protein",0,0,7148,0,0,0,0
+NC_001604,19787,19789,A,"> coding (253-255/300 nt)","T7p40","host range and adsorption protein",0,0,7194,0,0,0,0
+NC_001604,19803,19805,C,"> coding (269-271/300 nt)","T7p40","host range and adsorption protein",0,0,6924,0,0,0,0
+NC_001604,19830,19832,T,"> coding (296-298/300 nt)","T7p40","host range and adsorption protein",0,0,6962,0,0,0,0
+NC_001604,19889,19891,G,"> coding (42-44/393 nt)","T7p41","HNH endonuclease",0,0,7414,0,0,0,0
+NC_001604,19906,19908,G,"> coding (59-61/393 nt)","T7p41","HNH endonuclease",0,0,7392,0,0,0,0
+NC_001604,19917,19919,A,"> coding (70-72/393 nt)","T7p41","HNH endonuclease",0,0,7205,0,0,0,0
+NC_001604,20003,20005,C,"> coding (156-158/393 nt)","T7p41","HNH endonuclease",0,0,7367,0,0,0,0
+NC_001604,20021,20023,A,"> coding (174-176/393 nt)","T7p41","HNH endonuclease",0,0,7022,0,0,0,0
+NC_001604,20045,20047,A,"> coding (198-200/393 nt)","T7p41","HNH endonuclease",0,0,7400,0,0,0,0
+NC_001604,20073,20075,A,"> coding (226-228/393 nt)","T7p41","HNH endonuclease",0,0,7889,0,0,0,0
+NC_001604,20088,20090,A,"> coding (241-243/393 nt)","T7p41","HNH endonuclease",0,0,6925,0,0,0,0
+NC_001604,20109,20111,A,"> coding (262-264/393 nt)","T7p41","HNH endonuclease",0,0,7312,0,0,0,0
+NC_001604,20236,20238,T,"> coding (389-391/393 nt)","T7p41","HNH endonuclease",0,0,7240,0,0,0,0
+NC_001604,20249,20251,A,"> coding (10-12/1611 nt)","T7p42","head-tail adaptor",0,0,7581,0,0,0,0
+NC_001604,20278,20280,A,"> coding (39-41/1611 nt)","T7p42","head-tail adaptor",0,0,7376,0,0,0,0
+NC_001604,20296,20298,T,"> coding (57-59/1611 nt)","T7p42","head-tail adaptor",0,0,7513,0,0,0,0
+NC_001604,20299,20301,A,"> coding (60-62/1611 nt)","T7p42","head-tail adaptor",0,0,7727,0,0,0,0
+NC_001604,20315,20317,C,"> coding (76-78/1611 nt)","T7p42","head-tail adaptor",0,0,7690,0,0,0,0
+NC_001604,20356,20358,C,"> coding (117-119/1611 nt)","T7p42","head-tail adaptor",0,0,7067,0,0,0,0
+NC_001604,20368,20370,C,"> coding (129-131/1611 nt)","T7p42","head-tail adaptor",0,0,6792,0,0,0,0
+NC_001604,20403,20405,A,"> coding (164-166/1611 nt)","T7p42","head-tail adaptor",0,0,6744,0,0,0,0
+NC_001604,20422,20424,G,"> coding (183-185/1611 nt)","T7p42","head-tail adaptor",0,0,7139,0,0,0,0
+NC_001604,20473,20475,C,"> coding (234-236/1611 nt)","T7p42","head-tail adaptor",0,0,7384,0,0,0,0
+NC_001604,20518,20520,A,"> coding (279-281/1611 nt)","T7p42","head-tail adaptor",0,0,6344,0,0,0,0
+NC_001604,20536,20539,C,"> coding (297-300/1611 nt)","T7p42","head-tail adaptor",0,0,0,6560,0,0,0
+NC_001604,20563,20565,G,"> coding (324-326/1611 nt)","T7p42","head-tail adaptor",0,0,6729,0,0,0,0
+NC_001604,20630,20632,T,"> coding (391-393/1611 nt)","T7p42","head-tail adaptor",0,0,6448,0,0,0,0
+NC_001604,20642,20644,A,"> coding (403-405/1611 nt)","T7p42","head-tail adaptor",0,0,6354,0,0,0,0
+NC_001604,20693,20695,G,"> coding (454-456/1611 nt)","T7p42","head-tail adaptor",0,0,6804,0,0,0,0
+NC_001604,20698,20700,A,"> coding (459-461/1611 nt)","T7p42","head-tail adaptor",0,0,6567,0,0,0,0
+NC_001604,20708,20710,C,"> coding (469-471/1611 nt)","T7p42","head-tail adaptor",0,0,7028,0,0,0,0
+NC_001604,20772,20774,A,"> coding (533-535/1611 nt)","T7p42","head-tail adaptor",0,0,6999,0,0,0,0
+NC_001604,20797,20800,T,"> coding (558-561/1611 nt)","T7p42","head-tail adaptor",0,0,0,6658,0,0,0
+NC_001604,20809,20811,C,"> coding (570-572/1611 nt)","T7p42","head-tail adaptor",0,0,6986,0,0,0,0
+NC_001604,20855,20857,A,"> coding (616-618/1611 nt)","T7p42","head-tail adaptor",0,0,6784,0,0,0,0
+NC_001604,20938,20940,G,"> coding (699-701/1611 nt)","T7p42","head-tail adaptor",0,0,7412,0,0,0,0
+NC_001604,20963,20965,G,"> coding (724-726/1611 nt)","T7p42","head-tail adaptor",0,0,6896,0,0,0,0
+NC_001604,20975,20977,A,"> coding (736-738/1611 nt)","T7p42","head-tail adaptor",0,0,6304,0,0,0,0
+NC_001604,20986,20988,C,"> coding (747-749/1611 nt)","T7p42","head-tail adaptor",0,0,6986,0,0,0,0
+NC_001604,20995,20997,C,"> coding (756-758/1611 nt)","T7p42","head-tail adaptor",0,0,7062,0,0,0,0
+NC_001604,21072,21074,C,"> coding (833-835/1611 nt)","T7p42","head-tail adaptor",0,0,7422,0,0,0,0
+NC_001604,21078,21081,A,"> coding (839-842/1611 nt)","T7p42","head-tail adaptor",0,0,2,7207,0,0,0
+NC_001604,21156,21158,C,"> coding (917-919/1611 nt)","T7p42","head-tail adaptor",0,0,6999,0,0,0,0
+NC_001604,21176,21178,A,"> coding (937-939/1611 nt)","T7p42","head-tail adaptor",0,0,6861,0,0,0,0
+NC_001604,21251,21253,T,"> coding (1012-1014/1611 nt)","T7p42","head-tail adaptor",0,0,7185,0,0,0,0
+NC_001604,21263,21265,A,"> coding (1024-1026/1611 nt)","T7p42","head-tail adaptor",0,0,7102,0,0,0,0
+NC_001604,21294,21296,T,"> coding (1055-1057/1611 nt)","T7p42","head-tail adaptor",0,0,7277,0,0,0,0
+NC_001604,21299,21301,T,"> coding (1060-1062/1611 nt)","T7p42","head-tail adaptor",0,0,7038,0,0,0,0
+NC_001604,21305,21307,T,"> coding (1066-1068/1611 nt)","T7p42","head-tail adaptor",0,0,6936,0,0,0,0
+NC_001604,21391,21393,T,"> coding (1152-1154/1611 nt)","T7p42","head-tail adaptor",0,2,7597,0,0,0,0
+NC_001604,21414,21416,T,"> coding (1175-1177/1611 nt)","T7p42","head-tail adaptor",0,0,7391,0,0,0,0
+NC_001604,21585,21587,G,"> coding (1346-1348/1611 nt)","T7p42","head-tail adaptor",0,0,7074,0,0,0,0
+NC_001604,21606,21608,G,"> coding (1367-1369/1611 nt)","T7p42","head-tail adaptor",0,0,7360,0,0,0,0
+NC_001604,21613,21615,C,"> coding (1374-1376/1611 nt)","T7p42","head-tail adaptor",0,0,7369,0,0,0,0
+NC_001604,21717,21719,C,"> coding (1478-1480/1611 nt)","T7p42","head-tail adaptor",0,0,6420,0,0,0,0
+NC_001604,21732,21734,A,"> coding (1493-1495/1611 nt)","T7p42","head-tail adaptor",0,2,6886,0,0,0,0
+NC_001604,21736,21738,G,"> coding (1497-1499/1611 nt)","T7p42","head-tail adaptor",0,0,6963,0,0,0,0
+NC_001604,21832,21834,T,"> coding (1593-1595/1611 nt)","T7p42","head-tail adaptor",0,0,7163,0,0,0,0
+NC_001604,21841,21843,G,"> coding (1602-1604/1611 nt)","T7p42","head-tail adaptor",0,0,7554,0,0,0,0
+NC_001604,21846,21848,T,"> coding (1607-1609/1611 nt)","T7p42","head-tail adaptor",0,0,7540,0,0,0,0
+NC_001604,21865,21867,G,">/> intergenic (+15/-83)","T7p42/T7p43","head-tail adaptor/head assembly",0,0,7124,0,0,0,0
+NC_001604,21878,21880,T,">/> intergenic (+28/-70)","T7p42/T7p43","head-tail adaptor/head assembly",0,0,7850,0,0,0,0
+NC_001604,21882,21884,A,">/> intergenic (+32/-66)","T7p42/T7p43","head-tail adaptor/head assembly",0,0,7733,0,0,0,0
+NC_001604,21932,21934,T,">/> intergenic (+82/-16)","T7p42/T7p43","head-tail adaptor/head assembly",0,0,6733,0,0,0,0
+NC_001604,21982,21985,T,"> coding (33-36/924 nt)","T7p43","head assembly",0,0,0,6611,0,0,0
+NC_001604,22062,22064,C,"> coding (113-115/924 nt)","T7p43","head assembly",0,0,7557,0,0,0,0
+NC_001604,22107,22109,A,"> coding (158-160/924 nt)","T7p43","head assembly",0,0,7553,0,0,0,0
+NC_001604,22138,22140,C,"> coding (189-191/924 nt)","T7p43","head assembly",0,0,7279,0,0,0,0
+NC_001604,22234,22236,G,"> coding (285-287/924 nt)","T7p43","head assembly",0,0,7317,0,0,0,0
+NC_001604,22256,22258,T,"> coding (307-309/924 nt)","T7p43","head assembly",0,0,7188,0,0,0,0
+NC_001604,22260,22263,C,"> coding (311-314/924 nt)","T7p43","head assembly",0,0,0,7403,0,0,0
+NC_001604,22267,22269,G,"> coding (318-320/924 nt)","T7p43","head assembly",0,0,7727,0,0,0,0
+NC_001604,22324,22326,G,"> coding (375-377/924 nt)","T7p43","head assembly",0,0,7234,0,0,0,0
+NC_001604,22449,22451,A,"> coding (500-502/924 nt)","T7p43","head assembly",0,0,7123,0,0,0,0
+NC_001604,22468,22470,T,"> coding (519-521/924 nt)","T7p43","head assembly",0,0,7405,0,0,0,0
+NC_001604,22519,22521,A,"> coding (570-572/924 nt)","T7p43","head assembly",0,0,7033,0,0,0,0
+NC_001604,22555,22558,T,"> coding (606-609/924 nt)","T7p43","head assembly",0,0,0,6833,0,0,0
+NC_001604,22591,22593,C,"> coding (642-644/924 nt)","T7p43","head assembly",0,0,7012,0,0,0,0
+NC_001604,22739,22741,A,"> coding (790-792/924 nt)","T7p43","head assembly",0,0,6164,0,0,0,0
+NC_001604,22766,22768,T,"> coding (817-819/924 nt)","T7p43","head assembly",0,0,6683,0,0,0,0
+NC_001604,22790,22792,A,"> coding (841-843/924 nt)","T7p43","head assembly",0,0,6433,0,0,0,0
+NC_001604,22804,22806,C,"> coding (855-857/924 nt)","T7p43","head assembly",0,0,6407,0,0,0,0
+NC_001604,22850,22852,A,"> coding (901-903/924 nt)","T7p43","head assembly",0,0,6663,0,0,0,0
+NC_001604,22883,22885,A,">/> intergenic (+10/-82)","T7p43/T7p44","head assembly/major head protein",0,0,7015,0,0,0,0
+NC_001604,22904,22906,G,">/> intergenic (+31/-61)","T7p43/T7p44","head assembly/major head protein",0,0,6239,0,0,0,0
+NC_001604,22919,22921,T,">/> intergenic (+46/-46)","T7p43/T7p44","head assembly/major head protein",0,0,6769,0,0,0,0
+NC_001604,22922,22924,C,">/> intergenic (+49/-43)","T7p43/T7p44","head assembly/major head protein",0,0,6820,0,0,0,0
+NC_001604,22930,22932,A,">/> intergenic (+57/-35)","T7p43/T7p44","head assembly/major head protein",0,0,6797,0,0,0,0
+NC_001604,22936,22939,T,">/> intergenic (+63/-28)","T7p43/T7p44","head assembly/major head protein",0,0,0,6671,1,0,0
+NC_001604,22941,22943,T,">/> intergenic (+68/-24)","T7p43/T7p44","head assembly/major head protein",0,0,6673,0,0,0,0
+NC_001604,22947,22949,T,">/> intergenic (+74/-18)","T7p43/T7p44","head assembly/major head protein",0,0,6558,0,0,0,0
+NC_001604,22992,22994,A,">|> coding (26-28/1023 nt)|coding (26-28/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6370,0,0,0,0
+NC_001604,22996,22998,G,">|> coding (30-32/1023 nt)|coding (30-32/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6361,0,0,0,0
+NC_001604,23012,23014,A,">|> coding (46-48/1023 nt)|coding (46-48/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6074,0,0,0,0
+NC_001604,23036,23038,A,">|> coding (70-72/1023 nt)|coding (70-72/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7561,0,0,0,0
+NC_001604,23060,23062,T,">|> coding (94-96/1023 nt)|coding (94-96/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6596,0,0,0,0
+NC_001604,23141,23143,A,">|> coding (175-177/1023 nt)|coding (175-177/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6019,0,0,0,0
+NC_001604,23155,23157,C,">|> coding (189-191/1023 nt)|coding (189-191/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,5594,0,0,0,0
+NC_001604,23164,23166,G,">|> coding (198-200/1023 nt)|coding (198-200/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,5408,0,0,0,0
+NC_001604,23194,23196,G,">|> coding (228-230/1023 nt)|coding (228-230/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6904,0,0,0,0
+NC_001604,23213,23215,A,">|> coding (247-249/1023 nt)|coding (247-249/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6705,0,0,0,0
+NC_001604,23228,23230,A,">|> coding (262-264/1023 nt)|coding (262-264/1038 nt)","T7p44|T7p45","major head protein|major head protein",18,0,6438,0,0,0,0
+NC_001604,23283,23285,T,">|> coding (317-319/1023 nt)|coding (317-319/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6687,0,0,0,0
+NC_001604,23344,23346,G,">|> coding (378-380/1023 nt)|coding (378-380/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6681,0,0,0,0
+NC_001604,23412,23414,A,">|> coding (446-448/1023 nt)|coding (446-448/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7338,0,0,0,0
+NC_001604,23417,23419,A,">|> coding (451-453/1023 nt)|coding (451-453/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7289,0,0,0,0
+NC_001604,23437,23439,G,">|> coding (471-473/1023 nt)|coding (471-473/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7409,0,0,0,0
+NC_001604,23506,23508,G,">|> coding (540-542/1023 nt)|coding (540-542/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,1,6554,0,0,0,0
+NC_001604,23596,23598,C,">|> coding (630-632/1023 nt)|coding (630-632/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7469,0,0,0,0
+NC_001604,23644,23646,A,">|> coding (678-680/1023 nt)|coding (678-680/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7487,0,0,0,0
+NC_001604,23665,23667,C,">|> coding (699-701/1023 nt)|coding (699-701/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7013,0,0,0,0
+NC_001604,23674,23676,G,">|> coding (708-710/1023 nt)|coding (708-710/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7005,0,0,0,0
+NC_001604,23695,23697,G,">|> coding (729-731/1023 nt)|coding (729-731/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6296,0,0,0,0
+NC_001604,23699,23701,T,">|> coding (733-735/1023 nt)|coding (733-735/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6569,0,0,0,0
+NC_001604,23755,23757,G,">|> coding (789-791/1023 nt)|coding (789-791/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7462,0,0,0,0
+NC_001604,23782,23784,C,">|> coding (816-818/1023 nt)|coding (816-818/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7430,0,0,0,0
+NC_001604,23792,23794,A,">|> coding (826-828/1023 nt)|coding (826-828/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7357,0,0,0,0
+NC_001604,23800,23802,G,">|> coding (834-836/1023 nt)|coding (834-836/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6926,0,0,0,0
+NC_001604,23947,23949,G,">|> coding (981-983/1023 nt)|coding (981-983/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,6999,0,0,0,0
+NC_001604,23965,23967,C,">|> coding (999-1001/1023 nt)|coding (999-1001/1038 nt)","T7p44|T7p45","major head protein|major head protein",0,0,7332,0,0,0,0
+NC_001604,23988,23991,T,"> coding (1022-1025/1038 nt)","T7p45","major head protein",0,0,0,6590,0,0,0
+NC_001604,23993,23995,A,">|> coding (1027-1029/1038 nt)|coding (5-7/174 nt)","T7p45|T7p44","major head protein|major head protein",0,0,6728,0,0,0,0
+NC_001604,24009,24013,G,"> coding (21-25/174 nt)","T7p44","major head protein",0,0,0,11,5600,3,0
+NC_001604,24037,24039,C,"> coding (49-51/174 nt)","T7p44","major head protein",0,0,6583,0,0,0,0
+NC_001604,24068,24070,A,"> coding (80-82/174 nt)","T7p44","major head protein",0,0,6644,0,0,0,0
+NC_001604,24101,24103,C,"> coding (113-115/174 nt)","T7p44","major head protein",0,0,6229,0,0,0,0
+NC_001604,24115,24117,A,"> coding (127-129/174 nt)","T7p44","major head protein",0,0,6691,0,0,0,0
+NC_001604,24119,24121,C,"> coding (131-133/174 nt)","T7p44","major head protein",0,0,6652,0,0,0,0
+NC_001604,24123,24125,A,"> coding (135-137/174 nt)","T7p44","major head protein",0,0,6656,0,0,0,0
+NC_001604,24172,24175,C,">/> intergenic (+10/-53)","T7p44/T7p46","major head protein/tail protein",0,0,0,6177,0,0,0
+NC_001604,24178,24181,G,">/> intergenic (+16/-47)","T7p44/T7p46","major head protein/tail protein",0,0,0,5890,0,0,0
+NC_001604,24187,24189,A,">/> intergenic (+25/-39)","T7p44/T7p46","major head protein/tail protein",0,1,5853,0,0,0,0
+NC_001604,24191,24193,G,">/> intergenic (+29/-35)","T7p44/T7p46","major head protein/tail protein",0,0,5933,0,0,0,0
+NC_001604,24200,24203,G,">/> intergenic (+38/-25)","T7p44/T7p46","major head protein/tail protein",0,1,2,6101,2,0,0
+NC_001604,24204,24209,T,">/> intergenic (+42/-19)","T7p44/T7p46","major head protein/tail protein",0,0,0,0,4,6136,3
+NC_001604,24214,24216,A,">/> intergenic (+52/-12)","T7p44/T7p46","major head protein/tail protein",0,0,6118,0,0,0,0
+NC_001604,24445,24447,T,"> coding (218-220/591 nt)","T7p46","tail protein",0,0,7011,0,0,0,0
+NC_001604,24479,24481,T,"> coding (252-254/591 nt)","T7p46","tail protein",0,0,6900,0,0,0,0
+NC_001604,24484,24486,C,"> coding (257-259/591 nt)","T7p46","tail protein",0,0,7212,0,0,0,0
+NC_001604,24564,24566,T,"> coding (337-339/591 nt)","T7p46","tail protein",0,0,7370,0,0,0,0
+NC_001604,24655,24657,C,"> coding (428-430/591 nt)","T7p46","tail protein",0,0,7986,0,0,0,0
+NC_001604,24678,24680,T,"> coding (451-453/591 nt)","T7p46","tail protein",0,0,7185,0,0,0,0
+NC_001604,24681,24684,G,"> coding (454-457/591 nt)","T7p46","tail protein",0,0,0,7225,0,0,0
+NC_001604,24698,24700,G,"> coding (471-473/591 nt)","T7p46","tail protein",0,0,6981,0,0,0,0
+NC_001604,24765,24767,G,"> coding (538-540/591 nt)","T7p46","tail protein",0,0,6773,0,0,0,0
+NC_001604,24826,24828,A,">/> intergenic (+8/-14)","T7p46/T7p47","tail protein/tail protein",0,0,7530,0,0,0,0
+NC_001604,24877,24879,G,"> coding (36-38/2385 nt)","T7p47","tail protein",0,0,7139,0,0,0,0
+NC_001604,24923,24925,G,"> coding (82-84/2385 nt)","T7p47","tail protein",0,1,6482,0,0,0,0
+NC_001604,24961,24963,G,"> coding (120-122/2385 nt)","T7p47","tail protein",0,0,7821,0,0,0,0
+NC_001604,24969,24972,A,"> coding (128-131/2385 nt)","T7p47","tail protein",0,0,0,7718,0,0,0
+NC_001604,24987,24990,T,"> coding (146-149/2385 nt)","T7p47","tail protein",0,0,0,7603,0,0,0
+NC_001604,24994,24996,A,"> coding (153-155/2385 nt)","T7p47","tail protein",0,0,7372,0,0,0,0
+NC_001604,25113,25115,T,"> coding (272-274/2385 nt)","T7p47","tail protein",0,0,7762,0,0,0,0
+NC_001604,25255,25257,A,"> coding (414-416/2385 nt)","T7p47","tail protein",0,0,7285,0,0,0,0
+NC_001604,25282,25284,C,"> coding (441-443/2385 nt)","T7p47","tail protein",0,0,7563,0,0,0,0
+NC_001604,25329,25331,G,"> coding (488-490/2385 nt)","T7p47","tail protein",0,0,7394,0,0,0,0
+NC_001604,25355,25357,A,"> coding (514-516/2385 nt)","T7p47","tail protein",0,0,7084,0,0,0,0
+NC_001604,25405,25407,A,"> coding (564-566/2385 nt)","T7p47","tail protein",0,0,6899,0,0,0,0
+NC_001604,25419,25421,C,"> coding (578-580/2385 nt)","T7p47","tail protein",0,0,7069,0,0,0,0
+NC_001604,25480,25482,A,"> coding (639-641/2385 nt)","T7p47","tail protein",0,0,6981,0,0,0,0
+NC_001604,25487,25489,G,"> coding (646-648/2385 nt)","T7p47","tail protein",0,0,7034,0,0,0,0
+NC_001604,25493,25495,G,"> coding (652-654/2385 nt)","T7p47","tail protein",0,0,7155,0,0,0,0
+NC_001604,25547,25549,A,"> coding (706-708/2385 nt)","T7p47","tail protein",0,0,7171,0,0,0,0
+NC_001604,25576,25578,C,"> coding (735-737/2385 nt)","T7p47","tail protein",0,0,7156,0,0,0,0
+NC_001604,25584,25586,C,"> coding (743-745/2385 nt)","T7p47","tail protein",0,0,7119,0,0,0,0
+NC_001604,25643,25646,A,"> coding (802-805/2385 nt)","T7p47","tail protein",0,0,0,6866,0,0,0
+NC_001604,25652,25655,G,"> coding (811-814/2385 nt)","T7p47","tail protein",0,0,0,6859,0,0,0
+NC_001604,25706,25708,A,"> coding (865-867/2385 nt)","T7p47","tail protein",0,0,7357,0,0,0,0
+NC_001604,25710,25712,T,"> coding (869-871/2385 nt)","T7p47","tail protein",0,0,7011,0,0,0,0
+NC_001604,25723,25725,T,"> coding (882-884/2385 nt)","T7p47","tail protein",0,0,7033,0,0,0,0
+NC_001604,25755,25757,G,"> coding (914-916/2385 nt)","T7p47","tail protein",0,0,6940,0,0,0,0
+NC_001604,25758,25760,A,"> coding (917-919/2385 nt)","T7p47","tail protein",0,0,6986,0,0,0,0
+NC_001604,25798,25800,T,"> coding (957-959/2385 nt)","T7p47","tail protein",0,0,7273,0,0,0,0
+NC_001604,25855,25857,C,"> coding (1014-1016/2385 nt)","T7p47","tail protein",0,0,6543,0,0,0,0
+NC_001604,25867,25870,T,"> coding (1026-1029/2385 nt)","T7p47","tail protein",0,0,0,6630,0,0,0
+NC_001604,25928,25931,G,"> coding (1087-1090/2385 nt)","T7p47","tail protein",0,0,1,6714,0,0,0
+NC_001604,25958,25960,A,"> coding (1117-1119/2385 nt)","T7p47","tail protein",0,0,6640,0,0,0,0
+NC_001604,25975,25977,C,"> coding (1134-1136/2385 nt)","T7p47","tail protein",0,0,6846,0,0,0,0
+NC_001604,26008,26010,C,"> coding (1167-1169/2385 nt)","T7p47","tail protein",0,0,6575,0,0,0,0
+NC_001604,26122,26124,G,"> coding (1281-1283/2385 nt)","T7p47","tail protein",0,0,7151,0,0,0,0
+NC_001604,26163,26165,C,"> coding (1322-1324/2385 nt)","T7p47","tail protein",0,0,6902,0,0,0,0
+NC_001604,26168,26170,T,"> coding (1327-1329/2385 nt)","T7p47","tail protein",0,0,6951,0,0,0,0
+NC_001604,26194,26197,T,"> coding (1353-1356/2385 nt)","T7p47","tail protein",0,0,3,7191,0,0,0
+NC_001604,26198,26200,G,"> coding (1357-1359/2385 nt)","T7p47","tail protein",0,0,7409,0,0,0,0
+NC_001604,26204,26206,G,"> coding (1363-1365/2385 nt)","T7p47","tail protein",0,0,7479,0,0,0,0
+NC_001604,26219,26221,T,"> coding (1378-1380/2385 nt)","T7p47","tail protein",0,0,7348,0,0,0,0
+NC_001604,26329,26331,C,"> coding (1488-1490/2385 nt)","T7p47","tail protein",0,0,6704,0,0,0,0
+NC_001604,26349,26351,T,"> coding (1508-1510/2385 nt)","T7p47","tail protein",0,0,6802,0,0,0,0
+NC_001604,26367,26370,A,"> coding (1526-1529/2385 nt)","T7p47","tail protein",0,0,0,7137,0,0,0
+NC_001604,26393,26396,G,"> coding (1552-1555/2385 nt)","T7p47","tail protein",0,0,0,8249,0,0,0
+NC_001604,26398,26400,C,"> coding (1557-1559/2385 nt)","T7p47","tail protein",0,0,8232,0,0,0,0
+NC_001604,26405,26408,A,"> coding (1564-1567/2385 nt)","T7p47","tail protein",0,0,0,7030,0,0,0
+NC_001604,26420,26422,A,"> coding (1579-1581/2385 nt)","T7p47","tail protein",0,0,7022,0,0,0,0
+NC_001604,26469,26471,G,"> coding (1628-1630/2385 nt)","T7p47","tail protein",0,0,7392,0,0,0,0
+NC_001604,26474,26476,T,"> coding (1633-1635/2385 nt)","T7p47","tail protein",0,0,7414,0,0,0,0
+NC_001604,26477,26480,G,"> coding (1636-1639/2385 nt)","T7p47","tail protein",0,0,0,7288,0,0,0
+NC_001604,26481,26484,A,"> coding (1640-1643/2385 nt)","T7p47","tail protein",0,0,0,7332,0,0,0
+NC_001604,26572,26574,T,"> coding (1731-1733/2385 nt)","T7p47","tail protein",0,0,7104,0,0,0,0
+NC_001604,26599,26601,G,"> coding (1758-1760/2385 nt)","T7p47","tail protein",0,0,6844,0,0,0,0
+NC_001604,26606,26608,C,"> coding (1765-1767/2385 nt)","T7p47","tail protein",0,0,6610,0,0,0,0
+NC_001604,26618,26620,T,"> coding (1777-1779/2385 nt)","T7p47","tail protein",0,0,6796,0,0,0,0
+NC_001604,26703,26705,T,"> coding (1862-1864/2385 nt)","T7p47","tail protein",0,0,6877,0,0,0,0
+NC_001604,26713,26715,A,"> coding (1872-1874/2385 nt)","T7p47","tail protein",0,0,7187,0,0,0,0
+NC_001604,26720,26722,G,"> coding (1879-1881/2385 nt)","T7p47","tail protein",0,0,7362,0,0,0,0
+NC_001604,26724,26727,G,"> coding (1883-1886/2385 nt)","T7p47","tail protein",0,0,0,7473,0,0,0
+NC_001604,26729,26732,A,"> coding (1888-1891/2385 nt)","T7p47","tail protein",0,0,0,7115,0,0,0
+NC_001604,26768,26770,T,"> coding (1927-1929/2385 nt)","T7p47","tail protein",0,0,6635,0,0,0,0
+NC_001604,26786,26788,G,"> coding (1945-1947/2385 nt)","T7p47","tail protein",0,0,6891,0,0,0,0
+NC_001604,26800,26802,C,"> coding (1959-1961/2385 nt)","T7p47","tail protein",0,0,6721,0,0,0,0
+NC_001604,26830,26832,G,"> coding (1989-1991/2385 nt)","T7p47","tail protein",0,0,7211,0,0,0,0
+NC_001604,26849,26851,G,"> coding (2008-2010/2385 nt)","T7p47","tail protein",0,0,7547,0,0,0,0
+NC_001604,26912,26914,G,"> coding (2071-2073/2385 nt)","T7p47","tail protein",0,0,7835,0,0,0,0
+NC_001604,26936,26938,G,"> coding (2095-2097/2385 nt)","T7p47","tail protein",0,0,6722,0,0,0,0
+NC_001604,26961,26963,G,"> coding (2120-2122/2385 nt)","T7p47","tail protein",0,0,6961,0,0,0,0
+NC_001604,26987,26989,T,"> coding (2146-2148/2385 nt)","T7p47","tail protein",0,0,6055,0,0,0,0
+NC_001604,26994,26996,T,"> coding (2153-2155/2385 nt)","T7p47","tail protein",0,1,6380,0,0,0,0
+NC_001604,27042,27044,C,"> coding (2201-2203/2385 nt)","T7p47","tail protein",0,0,8048,0,0,0,0
+NC_001604,27066,27068,G,"> coding (2225-2227/2385 nt)","T7p47","tail protein",0,0,7688,0,0,0,0
+NC_001604,27071,27073,G,"> coding (2230-2232/2385 nt)","T7p47","tail protein",0,0,7490,0,0,0,0
+NC_001604,27086,27088,G,"> coding (2245-2247/2385 nt)","T7p47","tail protein",0,0,7433,0,0,0,0
+NC_001604,27106,27108,C,"> coding (2265-2267/2385 nt)","T7p47","tail protein",0,0,6862,0,0,0,0
+NC_001604,27162,27165,C,"> coding (2321-2324/2385 nt)","T7p47","tail protein",0,0,0,6767,0,0,0
+NC_001604,27179,27181,G,"> coding (2338-2340/2385 nt)","T7p47","tail protein",0,0,7309,0,0,0,0
+NC_001604,27189,27191,G,"> coding (2348-2350/2385 nt)","T7p47","tail protein",0,0,7524,0,0,0,0
+NC_001604,27222,27224,T,"> coding (2381-2383/2385 nt)","T7p47","tail protein",0,0,7365,0,0,0,0
+NC_001604,27229,27231,A,">/> intergenic (+3/-76)","T7p47/T7p48","tail protein/internal virion protein",0,0,7360,0,0,0,0
+NC_001604,27238,27240,C,">/> intergenic (+12/-67)","T7p47/T7p48","tail protein/internal virion protein",0,0,7098,0,0,0,0
+NC_001604,27253,27255,A,">/> intergenic (+27/-52)","T7p47/T7p48","tail protein/internal virion protein",0,0,7349,0,0,0,0
+NC_001604,27274,27276,G,">/> intergenic (+48/-31)","T7p47/T7p48","tail protein/internal virion protein",0,0,6910,0,0,0,0
+NC_001604,27293,27295,G,">/> intergenic (+67/-12)","T7p47/T7p48","tail protein/internal virion protein",0,0,6765,0,0,0,0
+NC_001604,27297,27299,G,">/> intergenic (+71/-8)","T7p47/T7p48","tail protein/internal virion protein",0,0,6759,0,0,0,0
+NC_001604,27300,27303,T,">/> intergenic (+74/-4)","T7p47/T7p48","tail protein/internal virion protein",0,0,0,6657,0,0,0
+NC_001604,27328,27331,A,"> coding (22-25/417 nt)","T7p48","internal virion protein",0,0,0,6651,0,0,0
+NC_001604,27340,27342,T,"> coding (34-36/417 nt)","T7p48","internal virion protein",0,0,6248,0,0,0,0
+NC_001604,27405,27407,T,"> coding (99-101/417 nt)","T7p48","internal virion protein",0,0,7339,0,0,0,0
+NC_001604,27408,27410,C,"> coding (102-104/417 nt)","T7p48","internal virion protein",0,0,7452,0,0,0,0
+NC_001604,27445,27447,G,"> coding (139-141/417 nt)","T7p48","internal virion protein",0,0,6725,0,0,0,0
+NC_001604,27450,27452,C,"> coding (144-146/417 nt)","T7p48","internal virion protein",0,0,7245,0,0,0,0
+NC_001604,27475,27478,G,"> coding (169-172/417 nt)","T7p48","internal virion protein",0,0,0,6711,0,0,0
+NC_001604,27525,27527,A,"> coding (219-221/417 nt)","T7p48","internal virion protein",0,0,7203,0,0,0,0
+NC_001604,27537,27539,A,"> coding (231-233/417 nt)","T7p48","internal virion protein",0,0,7619,0,0,0,0
+NC_001604,27596,27598,T,"> coding (290-292/417 nt)","T7p48","internal virion protein",0,0,7090,0,0,0,0
+NC_001604,27611,27613,G,"> coding (305-307/417 nt)","T7p48","internal virion protein",0,0,7416,0,0,0,0
+NC_001604,27626,27628,C,"> coding (320-322/417 nt)","T7p48","internal virion protein",0,0,6944,0,0,0,0
+NC_001604,27636,27638,T,"> coding (330-332/417 nt)","T7p48","internal virion protein",0,0,6960,0,0,0,0
+NC_001604,27691,27693,T,"> coding (385-387/417 nt)","T7p48","internal virion protein",0,0,7051,0,0,0,0
+NC_001604,27700,27702,T,"> coding (394-396/417 nt)","T7p48","internal virion protein",0,0,6943,0,0,0,0
+NC_001604,27712,27714,A,"> coding (406-408/417 nt)","T7p48","internal virion protein",0,0,6791,0,0,0,0
+NC_001604,27735,27737,G,"> coding (8-10/591 nt)","T7p49","internal virion protein",0,0,6428,0,0,0,0
+NC_001604,27800,27803,A,"> coding (73-76/591 nt)","T7p49","internal virion protein",0,0,0,6308,0,0,0
+NC_001604,27846,27848,A,"> coding (119-121/591 nt)","T7p49","internal virion protein",0,0,7145,0,0,0,0
+NC_001604,27902,27904,A,"> coding (175-177/591 nt)","T7p49","internal virion protein",0,0,7041,0,0,0,0
+NC_001604,27962,27964,G,"> coding (235-237/591 nt)","T7p49","internal virion protein",0,0,6161,0,0,0,0
+NC_001604,28050,28052,G,"> coding (323-325/591 nt)","T7p49","internal virion protein",0,0,6751,0,0,0,0
+NC_001604,28125,28127,A,"> coding (398-400/591 nt)","T7p49","internal virion protein",0,0,7196,0,0,0,0
+NC_001604,28149,28151,A,"> coding (422-424/591 nt)","T7p49","internal virion protein",0,0,7291,0,0,0,0
+NC_001604,28169,28171,A,"> coding (442-444/591 nt)","T7p49","internal virion protein",0,0,6773,0,0,0,0
+NC_001604,28201,28203,C,"> coding (474-476/591 nt)","T7p49","internal virion protein",0,0,6741,0,0,0,0
+NC_001604,28216,28219,G,"> coding (489-492/591 nt)","T7p49","internal virion protein",0,0,0,6299,0,0,0
+NC_001604,28295,28297,A,"> coding (568-570/591 nt)","T7p49","internal virion protein",0,0,7313,0,0,0,0
+NC_001604,28309,28312,G,"> coding (582-585/591 nt)","T7p49","internal virion protein",0,0,0,7470,1,0,0
+NC_001604,28331,28334,A,"> coding (7-10/2244 nt)","T7p50","internal virion protein",0,0,0,7821,0,0,0
+NC_001604,28344,28346,C,"> coding (20-22/2244 nt)","T7p50","internal virion protein",0,0,7174,0,0,0,0
+NC_001604,28363,28365,G,"> coding (39-41/2244 nt)","T7p50","internal virion protein",0,0,7032,0,0,0,0
+NC_001604,28399,28401,G,"> coding (75-77/2244 nt)","T7p50","internal virion protein",0,0,6795,0,0,0,0
+NC_001604,28560,28563,C,"> coding (236-239/2244 nt)","T7p50","internal virion protein",0,0,0,7141,0,0,0
+NC_001604,28592,28594,G,"> coding (268-270/2244 nt)","T7p50","internal virion protein",0,0,7303,0,0,0,0
+NC_001604,28596,28598,C,"> coding (272-274/2244 nt)","T7p50","internal virion protein",0,0,7231,0,0,0,0
+NC_001604,28615,28617,C,"> coding (291-293/2244 nt)","T7p50","internal virion protein",0,0,6934,0,0,0,0
+NC_001604,28696,28699,A,"> coding (372-375/2244 nt)","T7p50","internal virion protein",0,0,0,7513,0,0,0
+NC_001604,28702,28704,G,"> coding (378-380/2244 nt)","T7p50","internal virion protein",0,0,7722,0,0,0,0
+NC_001604,28759,28761,G,"> coding (435-437/2244 nt)","T7p50","internal virion protein",0,0,7216,0,0,0,0
+NC_001604,28795,28797,C,"> coding (471-473/2244 nt)","T7p50","internal virion protein",0,0,6688,0,0,0,0
+NC_001604,28822,28824,T,"> coding (498-500/2244 nt)","T7p50","internal virion protein",0,0,7389,0,0,0,0
+NC_001604,28829,28832,G,"> coding (505-508/2244 nt)","T7p50","internal virion protein",0,0,0,7569,0,0,0
+NC_001604,28900,28902,G,"> coding (576-578/2244 nt)","T7p50","internal virion protein",0,0,7735,0,0,0,0
+NC_001604,28948,28950,C,"> coding (624-626/2244 nt)","T7p50","internal virion protein",0,0,6800,0,0,0,0
+NC_001604,28985,28987,T,"> coding (661-663/2244 nt)","T7p50","internal virion protein",0,0,6856,0,0,0,0
+NC_001604,29026,29028,C,"> coding (702-704/2244 nt)","T7p50","internal virion protein",0,0,6936,0,0,0,0
+NC_001604,29219,29221,T,"> coding (895-897/2244 nt)","T7p50","internal virion protein",0,0,6622,0,0,0,0
+NC_001604,29287,29289,C,"> coding (963-965/2244 nt)","T7p50","internal virion protein",0,0,6845,0,0,0,0
+NC_001604,29301,29303,G,"> coding (977-979/2244 nt)","T7p50","internal virion protein",0,0,6821,0,0,0,0
+NC_001604,29426,29428,A,"> coding (1102-1104/2244 nt)","T7p50","internal virion protein",0,0,6803,0,0,0,0
+NC_001604,29471,29473,A,"> coding (1147-1149/2244 nt)","T7p50","internal virion protein",0,0,7066,0,0,0,0
+NC_001604,29520,29522,G,"> coding (1196-1198/2244 nt)","T7p50","internal virion protein",0,0,6752,0,0,0,0
+NC_001604,29533,29536,T,"> coding (1209-1212/2244 nt)","T7p50","internal virion protein",0,0,0,6909,0,0,0
+NC_001604,29784,29787,C,"> coding (1460-1463/2244 nt)","T7p50","internal virion protein",0,0,0,7643,0,0,0
+NC_001604,29824,29826,C,"> coding (1500-1502/2244 nt)","T7p50","internal virion protein",0,0,7731,0,0,0,0
+NC_001604,29848,29850,C,"> coding (1524-1526/2244 nt)","T7p50","internal virion protein",0,0,7124,0,0,0,0
+NC_001604,29896,29898,G,"> coding (1572-1574/2244 nt)","T7p50","internal virion protein",0,0,6763,0,0,0,0
+NC_001604,29905,29907,C,"> coding (1581-1583/2244 nt)","T7p50","internal virion protein",0,0,6990,0,0,0,0
+NC_001604,29951,29953,A,"> coding (1627-1629/2244 nt)","T7p50","internal virion protein",0,0,7253,0,0,0,0
+NC_001604,29963,29965,T,"> coding (1639-1641/2244 nt)","T7p50","internal virion protein",0,0,7327,0,0,0,0
+NC_001604,29975,29977,A,"> coding (1651-1653/2244 nt)","T7p50","internal virion protein",0,0,7408,0,0,0,0
+NC_001604,30021,30023,C,"> coding (1697-1699/2244 nt)","T7p50","internal virion protein",0,0,7053,0,0,0,0
+NC_001604,30060,30062,T,"> coding (1736-1738/2244 nt)","T7p50","internal virion protein",0,0,6514,0,0,0,0
+NC_001604,30085,30088,G,"> coding (1761-1764/2244 nt)","T7p50","internal virion protein",0,0,0,7591,0,0,0
+NC_001604,30093,30095,A,"> coding (1769-1771/2244 nt)","T7p50","internal virion protein",0,0,7431,0,0,0,0
+NC_001604,30217,30219,C,"> coding (1893-1895/2244 nt)","T7p50","internal virion protein",0,0,7238,0,0,0,0
+NC_001604,30221,30223,A,"> coding (1897-1899/2244 nt)","T7p50","internal virion protein",0,0,7178,0,0,0,0
+NC_001604,30228,30230,G,"> coding (1904-1906/2244 nt)","T7p50","internal virion protein",0,0,7277,0,0,0,0
+NC_001604,30240,30242,G,"> coding (1916-1918/2244 nt)","T7p50","internal virion protein",0,0,7097,0,0,0,0
+NC_001604,30265,30267,G,"> coding (1941-1943/2244 nt)","T7p50","internal virion protein",0,0,7410,0,0,0,0
+NC_001604,30283,30285,C,"> coding (1959-1961/2244 nt)","T7p50","internal virion protein",0,0,6923,0,0,0,0
+NC_001604,30333,30335,T,"> coding (2009-2011/2244 nt)","T7p50","internal virion protein",0,0,7204,0,0,0,0
+NC_001604,30377,30379,A,"> coding (2053-2055/2244 nt)","T7p50","internal virion protein",0,0,6667,0,0,0,0
+NC_001604,30416,30418,A,"> coding (2092-2094/2244 nt)","T7p50","internal virion protein",0,0,6774,0,0,0,0
+NC_001604,30428,30430,A,"> coding (2104-2106/2244 nt)","T7p50","internal virion protein",0,0,6772,0,0,0,0
+NC_001604,30492,30494,C,"> coding (2168-2170/2244 nt)","T7p50","internal virion protein",0,0,7496,0,0,0,0
+NC_001604,30509,30511,A,"> coding (2185-2187/2244 nt)","T7p50","internal virion protein",0,0,6840,0,0,0,0
+NC_001604,30524,30526,A,"> coding (2200-2202/2244 nt)","T7p50","internal virion protein",0,0,6754,0,0,0,0
+NC_001604,30530,30532,A,"> coding (2206-2208/2244 nt)","T7p50","internal virion protein",0,0,6487,0,0,0,0
+NC_001604,30571,30573,A,">/> intergenic (+3/-22)","T7p50/T7p51","internal virion protein/internal virion protein with endolysin domain",0,0,6716,0,0,0,0
+NC_001604,30589,30591,C,">/> intergenic (+21/-4)","T7p50/T7p51","internal virion protein/internal virion protein with endolysin domain",0,0,6281,0,0,0,0
+NC_001604,30593,30595,A," ","[T7p51]","[T7p51]",0,0,6760,0,0,0,0
+NC_001604,30644,30647,A,"> coding (50-53/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,6572,0,0,0
+NC_001604,30664,30667,G,"> coding (70-73/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,7048,0,0,0
+NC_001604,30680,30683,T,"> coding (86-89/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,2,7404,0,0,0
+NC_001604,30688,30690,A,"> coding (94-96/3957 nt)","T7p51","internal virion protein with endolysin domain",0,2,7376,0,0,0,0
+NC_001604,30712,30714,T,"> coding (118-120/3957 nt)","T7p51","internal virion protein with endolysin domain",0,1,7094,0,0,0,0
+NC_001604,30726,30729,A,"> coding (132-135/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,6690,1,0,0
+NC_001604,30760,30762,T,"> coding (166-168/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6576,0,0,0,0
+NC_001604,30782,30784,C,"> coding (188-190/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6576,0,0,0,0
+NC_001604,30828,30830,C,"> coding (234-236/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7081,0,0,0,0
+NC_001604,30877,30879,G,"> coding (283-285/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6928,0,0,0,0
+NC_001604,30883,30885,T,"> coding (289-291/3957 nt)","T7p51","internal virion protein with endolysin domain",0,1,6931,0,0,0,0
+NC_001604,30901,30903,A,"> coding (307-309/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6760,0,0,0,0
+NC_001604,30908,30910,C,"> coding (314-316/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7128,0,0,0,0
+NC_001604,30930,30932,G,"> coding (336-338/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6632,0,0,0,0
+NC_001604,30939,30941,G,"> coding (345-347/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6571,0,0,0,0
+NC_001604,30969,30971,G,"> coding (375-377/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6739,0,0,0,0
+NC_001604,30996,30998,G,"> coding (402-404/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6789,0,0,0,0
+NC_001604,31058,31060,A,"> coding (464-466/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7067,0,0,0,0
+NC_001604,31062,31065,T,"> coding (468-471/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,7191,0,0,0
+NC_001604,31076,31079,C,"> coding (482-485/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,6755,0,0,0
+NC_001604,31080,31082,A,"> coding (486-488/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6580,0,0,0,0
+NC_001604,31083,31085,G,"> coding (489-491/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6881,0,0,0,0
+NC_001604,31087,31089,A,"> coding (493-495/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6383,0,0,0,0
+NC_001604,31135,31137,A,"> coding (541-543/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7254,0,0,0,0
+NC_001604,31167,31170,T,"> coding (573-576/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,6707,0,0,0
+NC_001604,31179,31181,G,"> coding (585-587/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7390,0,0,0,0
+NC_001604,31204,31206,A,"> coding (610-612/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6919,0,0,0,0
+NC_001604,31222,31225,T,"> coding (628-631/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,6806,0,0,0
+NC_001604,31226,31228,G,"> coding (632-634/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6918,0,0,0,0
+NC_001604,31232,31234,C,"> coding (638-640/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6544,0,0,0,0
+NC_001604,31241,31243,A,"> coding (647-649/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6986,0,0,0,0
+NC_001604,31285,31289,A,"> coding (691-695/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,1,6723,0,0
+NC_001604,31324,31326,G,"> coding (730-732/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6966,0,0,0,0
+NC_001604,31332,31334,T,"> coding (738-740/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7106,0,0,0,0
+NC_001604,31359,31362,T,"> coding (765-768/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,6645,0,0,0
+NC_001604,31369,31371,T,"> coding (775-777/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6900,0,0,0,0
+NC_001604,31372,31374,A,"> coding (778-780/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6890,0,0,0,0
+NC_001604,31455,31457,C,"> coding (861-863/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6061,0,0,0,0
+NC_001604,31487,31490,C,"> coding (893-896/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,7163,0,0,0
+NC_001604,31513,31515,A,"> coding (919-921/3957 nt)","T7p51","internal virion protein with endolysin domain",0,1,7120,0,0,0,0
+NC_001604,31531,31533,T,"> coding (937-939/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6630,0,0,0,0
+NC_001604,31544,31546,C,"> coding (950-952/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6809,0,0,0,0
+NC_001604,31573,31575,A,"> coding (979-981/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6510,0,0,0,0
+NC_001604,31608,31610,C,"> coding (1014-1016/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6401,0,0,0,0
+NC_001604,31647,31649,G,"> coding (1053-1055/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6771,0,0,0,0
+NC_001604,31651,31653,T,"> coding (1057-1059/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6826,0,0,0,0
+NC_001604,31688,31690,A,"> coding (1094-1096/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7598,0,0,0,0
+NC_001604,31758,31760,G,"> coding (1164-1166/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7667,0,0,0,0
+NC_001604,31777,31779,T,"> coding (1183-1185/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7432,0,0,0,0
+NC_001604,31783,31785,T,"> coding (1189-1191/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7468,0,0,0,0
+NC_001604,31831,31833,A,"> coding (1237-1239/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7570,0,0,0,0
+NC_001604,31840,31842,A,"> coding (1246-1248/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7866,0,0,0,0
+NC_001604,31895,31897,C,"> coding (1301-1303/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,8063,0,0,0,0
+NC_001604,31911,31913,A,"> coding (1317-1319/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7342,0,0,0,0
+NC_001604,31960,31962,T,"> coding (1366-1368/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7360,0,0,0,0
+NC_001604,31983,31985,C,"> coding (1389-1391/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7310,0,0,0,0
+NC_001604,32055,32057,C,"> coding (1461-1463/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7652,0,0,0,0
+NC_001604,32064,32066,C,"> coding (1470-1472/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7551,0,0,0,0
+NC_001604,32076,32079,A,"> coding (1482-1485/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,1,7162,0,0,0
+NC_001604,32097,32099,C,"> coding (1503-1505/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7344,0,0,0,0
+NC_001604,32122,32124,A,"> coding (1528-1530/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7143,0,0,0,0
+NC_001604,32131,32133,G,"> coding (1537-1539/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7163,0,0,0,0
+NC_001604,32160,32163,G,"> coding (1566-1569/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,1,7508,0,0,0
+NC_001604,32317,32319,A,"> coding (1723-1725/3957 nt)","T7p51","internal virion protein with endolysin domain",0,1,7987,0,0,0,0
+NC_001604,32338,32340,A,"> coding (1744-1746/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,8028,0,0,0,0
+NC_001604,32343,32345,C,"> coding (1749-1751/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,8256,0,0,0,0
+NC_001604,32375,32377,C,"> coding (1781-1783/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7957,0,0,0,0
+NC_001604,32384,32386,A,"> coding (1790-1792/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7715,0,0,0,0
+NC_001604,32494,32496,T,"> coding (1900-1902/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7412,0,0,0,0
+NC_001604,32519,32522,A,"> coding (1925-1928/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,1,7848,0,0,0
+NC_001604,32523,32525,C,"> coding (1929-1931/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7889,0,0,0,0
+NC_001604,32544,32546,A,"> coding (1950-1952/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6939,0,0,0,0
+NC_001604,32562,32564,C,"> coding (1968-1970/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7545,0,0,0,0
+NC_001604,32578,32580,A,"> coding (1984-1986/3957 nt)","T7p51","internal virion protein with endolysin domain",0,1,7202,0,0,0,0
+NC_001604,32652,32654,T,"> coding (2058-2060/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6979,0,0,0,0
+NC_001604,32662,32664,G,"> coding (2068-2070/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7916,0,0,0,0
+NC_001604,32669,32671,C,"> coding (2075-2077/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,8217,0,0,0,0
+NC_001604,32746,32749,G,"> coding (2152-2155/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,7352,0,0,0
+NC_001604,32810,32812,C,"> coding (2216-2218/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6807,0,0,0,0
+NC_001604,32859,32861,G,"> coding (2265-2267/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7419,0,0,0,0
+NC_001604,32908,32910,T,"> coding (2314-2316/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,8010,0,0,0,0
+NC_001604,32969,32971,G,"> coding (2375-2377/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6567,0,0,0,0
+NC_001604,33036,33039,G,"> coding (2442-2445/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,6886,0,0,0
+NC_001604,33049,33052,A,"> coding (2455-2458/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,7337,0,0,0
+NC_001604,33077,33080,T,"> coding (2483-2486/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,6959,0,0,0
+NC_001604,33088,33090,A,"> coding (2494-2496/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7702,0,0,0,0
+NC_001604,33094,33096,A,"> coding (2500-2502/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7686,0,0,0,0
+NC_001604,33102,33104,G,"> coding (2508-2510/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7553,0,0,0,0
+NC_001604,33135,33137,T,"> coding (2541-2543/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7143,0,0,0,0
+NC_001604,33194,33196,G,"> coding (2600-2602/3957 nt)","T7p51","internal virion protein with endolysin domain",2,0,6464,0,0,0,0
+NC_001604,33197,33199,A,"> coding (2603-2605/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6760,0,0,0,0
+NC_001604,33226,33228,G,"> coding (2632-2634/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6989,0,0,0,0
+NC_001604,33252,33254,G,"> coding (2658-2660/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7128,0,0,0,0
+NC_001604,33280,33282,G,"> coding (2686-2688/3957 nt)","T7p51","internal virion protein with endolysin domain",0,1,6884,0,0,0,0
+NC_001604,33313,33315,G,"> coding (2719-2721/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7200,0,0,0,0
+NC_001604,33324,33326,C,"> coding (2730-2732/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7202,0,0,0,0
+NC_001604,33355,33357,A,"> coding (2761-2763/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6813,0,0,0,0
+NC_001604,33362,33364,T,"> coding (2768-2770/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7096,0,0,0,0
+NC_001604,33403,33405,G,"> coding (2809-2811/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6970,0,0,0,0
+NC_001604,33433,33435,A,"> coding (2839-2841/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7039,0,0,0,0
+NC_001604,33461,33463,G,"> coding (2867-2869/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7307,0,0,0,0
+NC_001604,33502,33504,G,"> coding (2908-2910/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6994,0,0,0,0
+NC_001604,33610,33613,G,"> coding (3016-3019/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,6876,0,0,0
+NC_001604,33629,33631,C,"> coding (3035-3037/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6837,0,0,0,0
+NC_001604,33647,33649,C,"> coding (3053-3055/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6783,0,0,0,0
+NC_001604,33653,33655,G,"> coding (3059-3061/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6926,0,0,0,0
+NC_001604,33658,33660,A,"> coding (3064-3066/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6917,0,0,0,0
+NC_001604,33751,33753,G,"> coding (3157-3159/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6902,0,0,0,0
+NC_001604,33757,33759,T,"> coding (3163-3165/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6911,0,0,0,0
+NC_001604,33792,33794,C,"> coding (3198-3200/3957 nt)","T7p51","internal virion protein with endolysin domain",0,1,7183,0,0,0,0
+NC_001604,33797,33799,G,"> coding (3203-3205/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7107,0,0,0,0
+NC_001604,33878,33880,C,"> coding (3284-3286/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7031,0,0,0,0
+NC_001604,33916,33918,T,"> coding (3322-3324/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7176,0,0,0,0
+NC_001604,33924,33926,T,"> coding (3330-3332/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7878,0,0,0,0
+NC_001604,33938,33940,C,"> coding (3344-3346/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7535,0,0,0,0
+NC_001604,34026,34028,G,"> coding (3432-3434/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7106,0,0,0,0
+NC_001604,34041,34043,T,"> coding (3447-3449/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7410,0,0,0,0
+NC_001604,34066,34068,A,"> coding (3472-3474/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6571,0,0,0,0
+NC_001604,34090,34092,A,"> coding (3496-3498/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7095,0,0,0,0
+NC_001604,34122,34124,C,"> coding (3528-3530/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7479,0,0,0,0
+NC_001604,34136,34138,C,"> coding (3542-3544/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7460,0,0,0,0
+NC_001604,34167,34169,G,"> coding (3573-3575/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7601,0,0,0,0
+NC_001604,34176,34178,T,"> coding (3582-3584/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7550,0,0,0,0
+NC_001604,34205,34208,T,"> coding (3611-3614/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,7730,0,0,0
+NC_001604,34210,34212,G,"> coding (3616-3618/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7623,0,0,0,0
+NC_001604,34275,34277,C,"> coding (3681-3683/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7253,0,0,0,0
+NC_001604,34278,34280,A,"> coding (3684-3686/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7180,0,0,0,0
+NC_001604,34282,34284,A,"> coding (3688-3690/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7163,0,0,0,0
+NC_001604,34308,34310,G,"> coding (3714-3716/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7479,0,0,0,0
+NC_001604,34317,34319,G,"> coding (3723-3725/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7597,0,0,0,0
+NC_001604,34323,34325,A,"> coding (3729-3731/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6866,0,0,0,0
+NC_001604,34354,34356,T,"> coding (3760-3762/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7673,0,0,0,0
+NC_001604,34369,34372,G,"> coding (3775-3778/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,7020,0,0,0
+NC_001604,34414,34416,A,"> coding (3820-3822/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7469,0,0,0,0
+NC_001604,34458,34461,A,"> coding (3864-3867/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,0,7146,0,0,0
+NC_001604,34479,34481,C,"> coding (3885-3887/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7355,0,0,0,0
+NC_001604,34508,34510,T,"> coding (3914-3916/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7415,0,0,0,0
+NC_001604,34535,34537,G,"> coding (3941-3943/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,7076,0,0,0,0
+NC_001604,34546,34548,A,"> coding (3952-3954/3957 nt)","T7p51","internal virion protein with endolysin domain",0,0,6913,0,0,0,0
+NC_001604,34566,34568,G,">/> intergenic (+15/-56)","T7p51/T7p52","internal virion protein with endolysin domain/tail fiber protein",0,0,6349,0,0,0,0
+NC_001604,34576,34578,A,">/> intergenic (+25/-46)","T7p51/T7p52","internal virion protein with endolysin domain/tail fiber protein",0,0,7037,0,0,0,0
+NC_001604,34588,34590,C,">/> intergenic (+37/-34)","T7p51/T7p52","internal virion protein with endolysin domain/tail fiber protein",0,0,7100,0,0,0,0
+NC_001604,34605,34607,T,">/> intergenic (+54/-17)","T7p51/T7p52","internal virion protein with endolysin domain/tail fiber protein",0,0,7652,0,0,0,0
+NC_001604,34610,34612,T,">/> intergenic (+59/-12)","T7p51/T7p52","internal virion protein with endolysin domain/tail fiber protein",0,0,6981,0,0,0,0
+NC_001604,34622,34624,A," ","[T7p52]","[T7p52]",0,0,7323,0,0,0,0
+NC_001604,34639,34642,A,"> coding (16-19/1662 nt)","T7p52","tail fiber protein",0,0,0,7683,0,0,0
+NC_001604,34646,34649,T,"> coding (23-26/1662 nt)","T7p52","tail fiber protein",0,0,0,7772,0,0,0
+NC_001604,34680,34683,T,"> coding (57-60/1662 nt)","T7p52","tail fiber protein",0,0,0,7628,0,0,0
+NC_001604,34689,34691,C,"> coding (66-68/1662 nt)","T7p52","tail fiber protein",0,0,7632,0,0,0,0
+NC_001604,34693,34695,T,"> coding (70-72/1662 nt)","T7p52","tail fiber protein",0,0,7746,0,0,0,0
+NC_001604,34706,34708,C,"> coding (83-85/1662 nt)","T7p52","tail fiber protein",0,0,6689,0,0,0,0
+NC_001604,34746,34748,A,"> coding (123-125/1662 nt)","T7p52","tail fiber protein",0,0,6985,0,0,0,0
+NC_001604,34777,34779,T,"> coding (154-156/1662 nt)","T7p52","tail fiber protein",0,0,7176,0,0,0,0
+NC_001604,34806,34808,A,"> coding (183-185/1662 nt)","T7p52","tail fiber protein",0,0,7185,0,0,0,0
+NC_001604,34814,34817,G,"> coding (191-194/1662 nt)","T7p52","tail fiber protein",0,0,0,6912,0,0,0
+NC_001604,34885,34887,T,"> coding (262-264/1662 nt)","T7p52","tail fiber protein",0,0,6869,0,0,0,0
+NC_001604,34937,34939,A,"> coding (314-316/1662 nt)","T7p52","tail fiber protein",0,0,6646,0,0,0,0
+NC_001604,34961,34963,C,"> coding (338-340/1662 nt)","T7p52","tail fiber protein",0,0,7293,0,0,0,0
+NC_001604,35074,35076,T,"> coding (451-453/1662 nt)","T7p52","tail fiber protein",0,0,7148,0,0,0,0
+NC_001604,35085,35087,A,"> coding (462-464/1662 nt)","T7p52","tail fiber protein",0,0,6273,0,0,0,0
+NC_001604,35154,35156,T,"> coding (531-533/1662 nt)","T7p52","tail fiber protein",0,0,6868,0,0,0,0
+NC_001604,35160,35162,A,"> coding (537-539/1662 nt)","T7p52","tail fiber protein",0,0,7006,0,0,0,0
+NC_001604,35172,35174,G,"> coding (549-551/1662 nt)","T7p52","tail fiber protein",0,0,7054,0,0,0,0
+NC_001604,35176,35178,T,"> coding (553-555/1662 nt)","T7p52","tail fiber protein",0,0,6903,0,0,0,0
+NC_001604,35211,35213,A,"> coding (588-590/1662 nt)","T7p52","tail fiber protein",0,0,6528,0,0,0,0
+NC_001604,35235,35237,G,"> coding (612-614/1662 nt)","T7p52","tail fiber protein",0,0,6818,0,0,0,0
+NC_001604,35238,35240,T,"> coding (615-617/1662 nt)","T7p52","tail fiber protein",0,0,6839,0,0,0,0
+NC_001604,35296,35298,G,"> coding (673-675/1662 nt)","T7p52","tail fiber protein",0,0,7140,1,0,0,0
+NC_001604,35331,35333,A,"> coding (708-710/1662 nt)","T7p52","tail fiber protein",0,0,7133,0,0,0,0
+NC_001604,35373,35375,T,"> coding (750-752/1662 nt)","T7p52","tail fiber protein",0,0,7504,2,0,0,0
+NC_001604,35423,35426,A,"> coding (800-803/1662 nt)","T7p52","tail fiber protein",0,0,0,6871,0,0,0
+NC_001604,35482,35484,A,"> coding (859-861/1662 nt)","T7p52","tail fiber protein",0,0,7580,0,0,0,0
+NC_001604,35487,35489,A,"> coding (864-866/1662 nt)","T7p52","tail fiber protein",0,0,7418,0,0,0,0
+NC_001604,35503,35505,G,"> coding (880-882/1662 nt)","T7p52","tail fiber protein",0,0,7073,0,0,0,0
+NC_001604,35510,35512,T,"> coding (887-889/1662 nt)","T7p52","tail fiber protein",0,0,6993,0,0,0,0
+NC_001604,35523,35525,A,"> coding (900-902/1662 nt)","T7p52","tail fiber protein",0,0,7388,0,0,0,0
+NC_001604,35529,35532,T,"> coding (906-909/1662 nt)","T7p52","tail fiber protein",0,0,1,6908,0,0,0
+NC_001604,35557,35559,T,"> coding (934-936/1662 nt)","T7p52","tail fiber protein",0,0,7451,0,0,0,0
+NC_001604,35594,35597,G,"> coding (971-974/1662 nt)","T7p52","tail fiber protein",0,0,0,7594,0,0,0
+NC_001604,35676,35678,A,"> coding (1053-1055/1662 nt)","T7p52","tail fiber protein",0,0,7804,0,0,0,0
+NC_001604,35693,35695,C,"> coding (1070-1072/1662 nt)","T7p52","tail fiber protein",0,0,8030,0,0,0,0
+NC_001604,35721,35724,A,"> coding (1098-1101/1662 nt)","T7p52","tail fiber protein",0,0,0,8593,0,0,0
+NC_001604,35734,35736,G,"> coding (1111-1113/1662 nt)","T7p52","tail fiber protein",0,0,7983,0,0,0,0
+NC_001604,35788,35790,A,"> coding (1165-1167/1662 nt)","T7p52","tail fiber protein",0,0,8558,0,0,0,0
+NC_001604,35824,35826,G,"> coding (1201-1203/1662 nt)","T7p52","tail fiber protein",0,0,8491,0,0,0,0
+NC_001604,35911,35913,A,"> coding (1288-1290/1662 nt)","T7p52","tail fiber protein",0,0,8835,0,0,0,0
+NC_001604,35972,35975,G,"> coding (1349-1352/1662 nt)","T7p52","tail fiber protein",0,0,0,8772,0,0,0
+NC_001604,35980,35982,A,"> coding (1357-1359/1662 nt)","T7p52","tail fiber protein",0,0,8651,0,0,0,0
+NC_001604,36064,36067,G,"> coding (1441-1444/1662 nt)","T7p52","tail fiber protein",0,0,1,8110,0,0,0
+NC_001604,36080,36082,T,"> coding (1457-1459/1662 nt)","T7p52","tail fiber protein",0,0,7976,0,0,0,0
+NC_001604,36153,36156,C,"> coding (1530-1533/1662 nt)","T7p52","tail fiber protein",0,0,0,8500,0,0,0
+NC_001604,36203,36205,A,"> coding (1580-1582/1662 nt)","T7p52","tail fiber protein",0,1,7918,0,0,0,0
+NC_001604,36291,36293,A,">/> intergenic (+6/-51)","T7p52/T7p53","tail fiber protein/holin",0,0,7941,0,0,0,0
+NC_001604,36302,36304,A,">/> intergenic (+17/-40)","T7p52/T7p53","tail fiber protein/holin",0,0,7947,0,0,0,0
+NC_001604,36359,36361,T,"> coding (16-18/204 nt)","T7p53","holin",0,0,8532,0,0,0,0
+NC_001604,36395,36397,G,"> coding (52-54/204 nt)","T7p53","holin",0,0,7910,0,0,0,0
+NC_001604,36400,36402,G,"> coding (57-59/204 nt)","T7p53","holin",0,0,7726,0,0,0,0
+NC_001604,36431,36433,T,"> coding (88-90/204 nt)","T7p53","holin",0,0,7964,0,0,0,0
+NC_001604,36434,36436,G,"> coding (91-93/204 nt)","T7p53","holin",0,0,8082,0,0,0,0
+NC_001604,36530,36532,A,"> coding (187-189/204 nt)","T7p53","holin",0,0,8245,0,0,0,0
+NC_001604,36557,36560,A,"> coding (5-8/270 nt)","T7p54","terminase small subunit",0,0,3,8158,0,0,0
+NC_001604,36629,36631,T,"> coding (77-79/270 nt)","T7p54","terminase small subunit",0,0,7570,0,0,0,0
+NC_001604,36676,36678,A,"> coding (124-126/270 nt)","T7p54","terminase small subunit",0,0,7804,0,0,0,0
+NC_001604,36766,36768,A,"> coding (214-216/270 nt)","T7p54","terminase small subunit",0,0,7207,0,0,0,0
+NC_001604,36772,36774,A,"> coding (220-222/270 nt)","T7p54","terminase small subunit",0,0,7262,0,0,0,0
+NC_001604,36806,36808,T,"> coding (254-256/270 nt)","T7p54","terminase small subunit",0,0,7060,0,0,0,0
+NC_001604,36852,36854,T,">/> intergenic (+30/-63)","T7p54/T7p55","terminase small subunit/Rz-like spanin",0,0,7904,0,0,0,0
+NC_001604,36891,36893,A,">/> intergenic (+69/-24)","T7p54/T7p55","terminase small subunit/Rz-like spanin",0,0,7864,0,0,0,0
+NC_001604,36898,36900,A,">/> intergenic (+76/-17)","T7p54/T7p55","terminase small subunit/Rz-like spanin",0,0,7675,0,0,0,0
+NC_001604,36907,36909,G,">/> intergenic (+85/-8)","T7p54/T7p55","terminase small subunit/Rz-like spanin",0,0,7765,0,0,0,0
+NC_001604,36926,36930,T,"> coding (10-14/432 nt)","T7p55","Rz-like spanin",0,0,0,0,8042,0,0
+NC_001604,36943,36945,C,"> coding (27-29/432 nt)","T7p55","Rz-like spanin",0,0,7885,0,0,0,0
+NC_001604,36948,36950,G,"> coding (32-34/432 nt)","T7p55","Rz-like spanin",0,0,7726,0,0,0,0
+NC_001604,36959,36961,G,"> coding (43-45/432 nt)","T7p55","Rz-like spanin",0,0,7743,0,0,0,0
+NC_001604,36971,36973,G,"> coding (55-57/432 nt)","T7p55","Rz-like spanin",0,0,7280,0,0,0,0
+NC_001604,36989,36991,G,"> coding (73-75/432 nt)","T7p55","Rz-like spanin",0,0,7107,0,0,0,0
+NC_001604,37010,37012,A,"> coding (94-96/432 nt)","T7p55","Rz-like spanin",0,0,7188,0,0,0,0
+NC_001604,37016,37018,A,"> coding (100-102/432 nt)","T7p55","Rz-like spanin",0,0,6922,0,0,0,0
+NC_001604,37071,37073,A,">|> coding (155-157/432 nt)|coding (40-42/252 nt)","T7p55|T7p56","Rz-like spanin|Rz-like spanin",0,0,6789,0,0,0,0
+NC_001604,37127,37129,G,">|> coding (211-213/432 nt)|coding (96-98/252 nt)","T7p55|T7p56","Rz-like spanin|Rz-like spanin",0,0,6496,0,0,0,0
+NC_001604,37146,37148,T,">|> coding (230-232/432 nt)|coding (115-117/252 nt)","T7p55|T7p56","Rz-like spanin|Rz-like spanin",0,0,6674,0,0,0,0
+NC_001604,37153,37155,T,">|> coding (237-239/432 nt)|coding (122-124/252 nt)","T7p55|T7p56","Rz-like spanin|Rz-like spanin",0,0,7059,0,0,0,0
+NC_001604,37190,37193,A,">|> coding (274-277/432 nt)|coding (159-162/252 nt)","T7p55|T7p56","Rz-like spanin|Rz-like spanin",0,0,0,7071,0,0,0
+NC_001604,37265,37267,A,">|> coding (349-351/432 nt)|coding (234-236/252 nt)","T7p55|T7p56","Rz-like spanin|Rz-like spanin",0,0,7367,0,0,0,0
+NC_001604,37284,37286,C,"> coding (368-370/432 nt)","T7p55","Rz-like spanin",0,0,7124,0,0,0,0
+NC_001604,37291,37293,G,"> coding (375-377/432 nt)","T7p55","Rz-like spanin",0,0,6957,0,0,0,0
+NC_001604,37350,37352,A,">/> intergenic (+2/-18)","T7p55/T7p57","Rz-like spanin/terminase large subunit",0,0,8060,0,0,0,0
+NC_001604,37415,37417,A,"> coding (46-48/1761 nt)","T7p57","terminase large subunit",0,0,7176,0,0,0,0
+NC_001604,37459,37461,A,"> coding (90-92/1761 nt)","T7p57","terminase large subunit",0,0,6522,0,0,0,0
+NC_001604,37472,37474,C,"> coding (103-105/1761 nt)","T7p57","terminase large subunit",0,0,7272,0,0,0,0
+NC_001604,37543,37545,T,"> coding (174-176/1761 nt)","T7p57","terminase large subunit",0,0,7685,0,0,0,0
+NC_001604,37606,37608,C,"> coding (237-239/1761 nt)","T7p57","terminase large subunit",0,0,7228,0,0,0,0
+NC_001604,37667,37669,T,"> coding (298-300/1761 nt)","T7p57","terminase large subunit",0,0,8712,0,0,0,0
+NC_001604,37711,37713,A,"> coding (342-344/1761 nt)","T7p57","terminase large subunit",0,0,8762,0,0,0,0
+NC_001604,37721,37723,C,"> coding (352-354/1761 nt)","T7p57","terminase large subunit",0,0,8181,0,0,0,0
+NC_001604,37748,37750,T,"> coding (379-381/1761 nt)","T7p57","terminase large subunit",0,0,8510,0,0,0,0
+NC_001604,37759,37761,C,"> coding (390-392/1761 nt)","T7p57","terminase large subunit",0,2,8551,0,0,0,0
+NC_001604,37790,37792,A,"> coding (421-423/1761 nt)","T7p57","terminase large subunit",0,1,8731,0,0,0,0
+NC_001604,37882,37884,G,"> coding (513-515/1761 nt)","T7p57","terminase large subunit",0,0,9047,0,0,0,0
+NC_001604,37887,37889,C,"> coding (518-520/1761 nt)","T7p57","terminase large subunit",0,0,9334,0,0,0,0
+NC_001604,37934,37936,A,"> coding (565-567/1761 nt)","T7p57","terminase large subunit",0,0,9117,0,0,0,0
+NC_001604,38018,38020,G,">|> coding (649-651/1761 nt)|coding (3-5/258 nt)","T7p57|T7p58","terminase large subunit|hypothetical protein",0,0,9542,0,0,0,0
+NC_001604,38050,38052,C,">|> coding (681-683/1761 nt)|coding (35-37/258 nt)","T7p57|T7p58","terminase large subunit|hypothetical protein",0,0,8778,0,0,0,0
+NC_001604,38125,38127,C,">|> coding (756-758/1761 nt)|coding (110-112/258 nt)","T7p57|T7p58","terminase large subunit|hypothetical protein",0,0,9997,0,0,0,0
+NC_001604,38141,38143,G,">|> coding (772-774/1761 nt)|coding (126-128/258 nt)","T7p57|T7p58","terminase large subunit|hypothetical protein",0,0,9927,0,0,0,0
+NC_001604,38155,38157,C,">|> coding (786-788/1761 nt)|coding (140-142/258 nt)","T7p57|T7p58","terminase large subunit|hypothetical protein",0,1,9613,0,0,0,0
+NC_001604,38165,38167,T,">|> coding (796-798/1761 nt)|coding (150-152/258 nt)","T7p57|T7p58","terminase large subunit|hypothetical protein",0,0,10414,0,0,0,0
+NC_001604,38216,38218,T,">|> coding (847-849/1761 nt)|coding (201-203/258 nt)","T7p57|T7p58","terminase large subunit|hypothetical protein",0,0,9134,0,0,0,0
+NC_001604,38239,38241,C,">|> coding (870-872/1761 nt)|coding (224-226/258 nt)","T7p57|T7p58","terminase large subunit|hypothetical protein",0,0,8334,0,0,0,0
+NC_001604,38266,38268,C,">|> coding (897-899/1761 nt)|coding (251-253/258 nt)","T7p57|T7p58","terminase large subunit|hypothetical protein",0,0,9249,0,0,0,0
+NC_001604,38316,38319,C,"> coding (947-950/1761 nt)","T7p57","terminase large subunit",0,0,0,8889,0,0,0
+NC_001604,38386,38388,G,"> coding (1017-1019/1761 nt)","T7p57","terminase large subunit",0,0,9886,0,0,0,0
+NC_001604,38461,38463,C,"> coding (1092-1094/1761 nt)","T7p57","terminase large subunit",0,0,9526,0,0,0,0
+NC_001604,38484,38486,A,"> coding (1115-1117/1761 nt)","T7p57","terminase large subunit",0,0,9642,0,0,0,0
+NC_001604,38545,38547,T,"> coding (1176-1178/1761 nt)","T7p57","terminase large subunit",0,0,9580,0,0,0,0
+NC_001604,38571,38573,C,">|> coding (1202-1204/1761 nt)|coding (19-21/174 nt)","T7p57|T7p59","terminase large subunit|hypothetical protein",0,0,10076,0,0,0,0
+NC_001604,38596,38598,A,">|> coding (1227-1229/1761 nt)|coding (44-46/174 nt)","T7p57|T7p59","terminase large subunit|hypothetical protein",0,0,9771,0,0,0,0
+NC_001604,38604,38607,G,">|> coding (1235-1238/1761 nt)|coding (52-55/174 nt)","T7p57|T7p59","terminase large subunit|hypothetical protein",0,0,0,9325,0,0,0
+NC_001604,38681,38683,A,">|> coding (1312-1314/1761 nt)|coding (129-131/174 nt)","T7p57|T7p59","terminase large subunit|hypothetical protein",0,0,9539,0,0,0,0
+NC_001604,38715,38717,C,">|> coding (1346-1348/1761 nt)|coding (163-165/174 nt)","T7p57|T7p59","terminase large subunit|hypothetical protein",0,0,10255,0,0,0,0
+NC_001604,38726,38728,A,"> coding (1357-1359/1761 nt)","T7p57","terminase large subunit",0,0,9618,0,0,0,0
+NC_001604,38739,38741,T,"> coding (1370-1372/1761 nt)","T7p57","terminase large subunit",0,0,10068,0,0,0,0
+NC_001604,38748,38750,C,"> coding (1379-1381/1761 nt)","T7p57","terminase large subunit",0,0,10076,0,0,0,0
+NC_001604,38802,38804,G,"> coding (1433-1435/1761 nt)","T7p57","terminase large subunit",0,0,10090,0,0,0,0
+NC_001604,38874,38876,C,"> coding (1505-1507/1761 nt)","T7p57","terminase large subunit",0,0,9577,0,0,0,0
+NC_001604,38891,38893,A,"> coding (1522-1524/1761 nt)","T7p57","terminase large subunit",0,0,9622,0,0,0,0
+NC_001604,38925,38927,C,"> coding (1556-1558/1761 nt)","T7p57","terminase large subunit",0,0,9935,0,0,0,0
+NC_001604,38986,38988,G,"> coding (1617-1619/1761 nt)","T7p57","terminase large subunit",0,0,9896,0,0,0,0
+NC_001604,39067,39069,G,"> coding (1698-1700/1761 nt)","T7p57","terminase large subunit",0,0,10801,0,0,0,0
+NC_001604,39100,39102,G,"> coding (1731-1733/1761 nt)","T7p57","terminase large subunit",0,0,10048,0,0,0,0
+NC_001604,39115,39117,T,"> coding (1746-1748/1761 nt)","T7p57","terminase large subunit",0,0,10028,0,0,0,0
+NC_001604,39131,39133,T,">/> intergenic (+1/-256)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,0,10038,0,0,0,0
+NC_001604,39152,39154,G,">/> intergenic (+22/-235)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,0,9709,0,0,0,0
+NC_001604,39184,39186,T,">/> intergenic (+54/-203)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,0,11428,0,0,0,0
+NC_001604,39196,39199,A,">/> intergenic (+66/-190)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,0,2,11271,0,0,0
+NC_001604,39208,39210,A,">/> intergenic (+78/-179)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,0,11362,0,0,0,0
+NC_001604,39229,39231,G,">/> intergenic (+99/-158)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,0,10466,0,0,0,0
+NC_001604,39238,39240,G,">/> intergenic (+108/-149)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,0,11609,0,0,0,0
+NC_001604,39244,39246,A,">/> intergenic (+114/-143)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,2,11517,0,0,0,0
+NC_001604,39288,39290,A,">/> intergenic (+158/-99)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,0,12239,0,0,0,0
+NC_001604,39374,39376,A,">/> intergenic (+244/-13)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,0,11509,0,0,0,0
+NC_001604,39377,39379,G,">/> intergenic (+247/-10)","T7p57/T7p60","terminase large subunit/hypothetical protein",0,0,12693,0,0,0,0
+NC_001604,39437,39439,T,"> coding (49-51/150 nt)","T7p60","hypothetical protein",0,0,12629,0,0,0,0
+NC_001604,39450,39452,T,"> coding (62-64/150 nt)","T7p60","hypothetical protein",0,0,10897,1,0,0,0
+NC_001604,39459,39461,C,"> coding (71-73/150 nt)","T7p60","hypothetical protein",0,0,11156,0,0,0,0
+NC_001604,39464,39466,G,"> coding (76-78/150 nt)","T7p60","hypothetical protein",0,0,11893,0,0,0,0
+NC_001604,39510,39512,T,"> coding (122-124/150 nt)","T7p60","hypothetical protein",0,0,12746,0,0,0,0
+NC_001604,39538,39540,G," ","[T7p60]","[T7p60]",0,0,13562,0,0,0,0
+NC_001604,39569,39571,G,">/– intergenic (+31/–)","T7p60/–","hypothetical protein/–",0,0,13188,0,0,0,0
+NC_001604,39605,39607,C,">/– intergenic (+67/–)","T7p60/–","hypothetical protein/–",0,0,13726,0,0,0,0
+NC_001604,39632,39634,C,">/– intergenic (+94/–)","T7p60/–","hypothetical protein/–",0,0,15986,0,0,0,0
+NC_001604,39637,39639,A,">/– intergenic (+99/–)","T7p60/–","hypothetical protein/–",0,1,15526,0,0,0,0
+NC_001604,39674,39676,A,">/– intergenic (+136/–)","T7p60/–","hypothetical protein/–",0,0,18161,0,0,0,0
+NC_001604,39703,39705,A,">/– intergenic (+165/–)","T7p60/–","hypothetical protein/–",0,0,18676,0,0,0,0
+NC_001604,39708,39710,G,">/– intergenic (+170/–)","T7p60/–","hypothetical protein/–",0,0,19032,0,0,0,0
+NC_001604,39720,39722,G,">/– intergenic (+182/–)","T7p60/–","hypothetical protein/–",0,0,19216,0,0,0,0
+NC_001604,39740,39742,G,">/– intergenic (+202/–)","T7p60/–","hypothetical protein/–",0,0,21170,0,0,0,0
+NC_001604,39746,39748,T,">/– intergenic (+208/–)","T7p60/–","hypothetical protein/–",0,0,20345,0,0,0,0
+NC_001604,39749,39752,A,">/– intergenic (+211/–)","T7p60/–","hypothetical protein/–",0,0,8,19807,0,0,0
+NC_001604,39761,39765,A,">/– intergenic (+223/–)","T7p60/–","hypothetical protein/–",0,0,0,0,20881,2,0
+NC_001604,39797,39799,A,">/– intergenic (+259/–)","T7p60/–","hypothetical protein/–",0,0,17752,0,0,0,0
+NC_001604,39803,39807,C,">/– intergenic (+265/–)","T7p60/–","hypothetical protein/–",0,0,0,36,16118,12,0
+NC_001604,39811,39815,G,">/– intergenic (+273/–)","T7p60/–","hypothetical protein/–",0,0,0,21,14869,21,0
+NC_001604,39821,39823,A,">/– intergenic (+283/–)","T7p60/–","hypothetical protein/–",0,1,13628,0,0,0,0
+NC_001604,39825,39827,C,">/– intergenic (+287/–)","T7p60/–","hypothetical protein/–",0,1,13497,0,0,0,0
+NC_001604,39840,39842,A,">/– intergenic (+302/–)","T7p60/–","hypothetical protein/–",0,0,12246,0,0,0,0
+NC_001604,39865,39867,G,">/– intergenic (+327/–)","T7p60/–","hypothetical protein/–",0,0,8840,0,0,0,0
+NC_001604,39870,39872,C,">/– intergenic (+332/–)","T7p60/–","hypothetical protein/–",0,0,8626,0,0,0,0
+NC_001604,39876,39878,G,">/– intergenic (+338/–)","T7p60/–","hypothetical protein/–",0,0,7395,0,0,0,0
+NC_001604,39881,39884,G,">/– intergenic (+343/–)","T7p60/–","hypothetical protein/–",0,0,0,6034,0,0,0
+NC_001604,39889,39891,C,">/– intergenic (+351/–)","T7p60/–","hypothetical protein/–",0,0,4487,0,0,0,0
+NC_001604,39894,39896,G,">/– intergenic (+356/–)","T7p60/–","hypothetical protein/–",0,0,3767,0,0,0,0
+NC_001604,39897,39899,T,">/– intergenic (+359/–)","T7p60/–","hypothetical protein/–",0,0,3527,0,0,0,0
+NC_001604,39903,39905,T,">/– intergenic (+365/–)","T7p60/–","hypothetical protein/–",0,0,2914,0,0,0,0
+NC_001604,39906,39908,G,">/– intergenic (+368/–)","T7p60/–","hypothetical protein/–",0,0,2873,0,0,0,0
+NC_001604,39934,39936,C,">/– intergenic (+396/–)","T7p60/–","hypothetical protein/–",0,0,0,0,0,0,0
