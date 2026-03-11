@@ -152,12 +152,12 @@ for (c1 in categories) {
   }
 }
 
-category_comparisons = category_differences %>% group_by(category1, category2) %>% summarize(tail_upper = sum(log2_relative_diff>0), tail_lower = sum(log2_relative_diff<0), p_value = (min(tail_lower, tail_upper))/(num_randomized_datasets))
+category_comparisons = category_differences %>% group_by(category1, category2) %>% summarize(tail_upper = sum(log2_relative_diff>0), tail_lower = sum(log2_relative_diff<0), p_value = 2*(min(tail_lower, tail_upper))/(num_randomized_datasets))
 
 category_comparisons$adj_p_value = p.adjust(category_comparisons$p_value, method="holm")
 pvals = category_comparisons$adj_p_value
 names(pvals) <- paste(category_comparisons$category1, category_comparisons$category2, sep = "-")
 
 library(multcompView)
-multcompLetters(pvals, threshold = 0.05)
+multcompLetters(pvals, threshold = 0.1)
 
