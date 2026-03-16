@@ -136,7 +136,7 @@ for (c1 in categories) {
   for (c2 in categories) {
     
     if (c1 == c2) {
-      next
+      break
     }
     set2 = resampled_randomizations_relative_log2 %>% filter(protein_classification==c2)
 
@@ -159,5 +159,5 @@ pvals = category_comparisons$adj_p_value
 names(pvals) <- paste(category_comparisons$category1, category_comparisons$category2, sep = "-")
 
 library(multcompView)
-multcompLetters(pvals, threshold = 0.1)
+multcompLetters(pvals, threshold = 0.05)
 
